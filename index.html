@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Báo cáo Tồn kho</title>
+<style>
+  body{font-family:system-ui,Arial,sans-serif;margin:0;background:#f4f6f9;color:#222}
+  header{background:#1b2a4a;color:#fff;padding:16px;text-align:center}
+  .kpis{display:flex;flex-wrap:wrap;gap:12px;padding:16px;justify-content:center}
+  .card{background:#fff;border-radius:8px;padding:16px 24px;min-width:160px;text-align:center;box-shadow:0 1px 3px rgba(0,0,0,.1)}
+  .card .v{font-size:28px;font-weight:700}
+  .card .l{font-size:12px;text-transform:uppercase;color:#666}
+  section{background:#fff;margin:16px;border-radius:8px;padding:16px;box-shadow:0 1px 3px rgba(0,0,0,.1)}
+  table{width:100%;border-collapse:collapse;font-size:14px}
+  th,td{padding:6px 8px;border-bottom:1px solid #eee;text-align:left}
+  .het{color:#c0392b;font-weight:600}
+  .sap{color:#e67e22;font-weight:600}
+  input#q{padding:8px;width:100%;max-width:320px;margin-bottom:8px}
+</style>
+</head>
+<body>
+<header>
+  <h1>BÁO CÁO TỔNG HỢP TỒN KHO</h1>
+  <div id="updated"></div>
+</header>
+<div class="kpis" id="kpis"></div>
+<section><h3>⚠️ Hết hàng / Sắp hết</h3><div id="alerts"></div></section>
+<section><h3>🏷️ Mã lỗi (không có trong tồn kho)</h3><div id="maloi"></div></section>
+<section><h3>📋 Chi tiết hàng hóa</h3>
+  <input id="q" placeholder="Tìm mã hoặc tên hàng..."/>
+  <div id="table"></div>
+</section>
+<script src="app.js"></script>
+</body>
+</html>
