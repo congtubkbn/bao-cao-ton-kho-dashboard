@@ -1,5 +1,773 @@
 {
-  "kpi": { "tonDau": 0, "tongXuat": 0, "tonCuoi": 0, "soMatHang": 0 },
-  "items": [], "hetHang": [], "sapHet": [], "top20": [], "maLoi": [],
-  "mstPendingCount": 0, "updatedAt": "2026-07-10T00:00:00.000Z"
+  "kpi": {
+    "tonDau": 4641,
+    "tongXuat": 432,
+    "tonCuoi": 4209,
+    "soMatHang": 43
+  },
+  "items": [
+    {
+      "maHang": "49LH600T/ 49LH605T",
+      "tenHang": "Bộ thanh led dẫn sáng 49LH600T/49 LH605T, bộ ( 4 thanh 4 led + 4 than h 3 led , KT dài (50-90)cm. Mới 100 %",
+      "dvt": "Bộ",
+      "tonDau": 3,
+      "tongXuat": 3,
+      "tonCuoi": 0
+    },
+    {
+      "maHang": "55X7000G/ 55X8000G/ 55X7000D/ 55X8500H",
+      "tenHang": "Bộ thanh led dẫn sáng 55X7000G/ 55X8000G/ 55X7000D/ 55X8500H (đi-ốt phát quang),10 thanh 3V, đ/áp 3v/90-120w, dùng trong màn hình tivi, kích thước dài (50-90)cm, ko hiệu, mới 100%",
+      "dvt": "Bộ",
+      "tonDau": 2,
+      "tongXuat": 2,
+      "tonCuoi": 0
+    },
+    {
+      "maHang": "DCBDS-B260C_05",
+      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, mã DCBDS-B260C_05, nhà sản xuất WDX, hàng mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 3,
+      "tongXuat": 3,
+      "tonCuoi": 0
+    },
+    {
+      "maHang": "40LF630",
+      "tenHang": "40LF630/ LF632/ 40LB (Chip led)",
+      "dvt": "Bộ",
+      "tonDau": 1,
+      "tongXuat": 0,
+      "tonCuoi": 1
+    },
+    {
+      "maHang": "49P3/ 49P2/ 49P32",
+      "tenHang": "Bộ thanh led dẫn sáng 49P3/p2 / 49P 32( bộ 8 thanh), KT dài (50-90)cm. Mới 100%",
+      "dvt": "Bộ",
+      "tonDau": 1,
+      "tongXuat": 0,
+      "tonCuoi": 1
+    },
+    {
+      "maHang": "UA55NU7100/UA55NU7300/UA55NU7090/UA55RU7100/UA55RU7200/UA55RU7300",
+      "tenHang": "Bộ thanh led dẫn sáng màn hình tivi samsung UA55NU7100/UA55NU7300/UA55NU7090/UA55RU7100 /UA55RU7200/UA55RU7300 (2thanh viền 6V N2), KT dài (50-90)cm, mới 100%",
+      "dvt": "Bộ",
+      "tonDau": 1,
+      "tongXuat": 0,
+      "tonCuoi": 1
+    },
+    {
+      "maHang": "65AU8100",
+      "tenHang": "Bộ thanh led dẫn sáng 65AU8100 / A U8000 /65BU8000, 2 thanh/bộ-64 le d, KT dài (50-90)cm. Mới 100%",
+      "dvt": "Bộ",
+      "tonDau": 3,
+      "tongXuat": 1,
+      "tonCuoi": 2
+    },
+    {
+      "maHang": "V400HJ91-PE1",
+      "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 40 inch, Mã: V400HJ91-PE1, Nhà sản xuất INNOLUX, hàng mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 2,
+      "tongXuat": 0,
+      "tonCuoi": 2
+    },
+    {
+      "maHang": "65Q65/Q3",
+      "tenHang": "Bộ thanh led dẫn sáng 65Q65/Q3 LED sáng xanh, 66 bóng, 2thanh/bộ, kích thước dài (50-90)cm. Mới 100%",
+      "dvt": "Bộ",
+      "tonDau": 5,
+      "tongXuat": 1,
+      "tonCuoi": 4
+    },
+    {
+      "maHang": "40F5000/UA40F5100/UA40F5500/UA40F5501/UA40F6400/UA",
+      "tenHang": "Bộ thanh led dẫn sáng 40F5000/UA40F5100/UA40F5500/UA40F5501/UA40F6400/UA40F6300 (đi-ốt phát quang) , 14 thanh nổi 3V T2, đ/áp 3v/12 6-168w, dùng trong màn hình tivi, kt dài (50-90)cm,ko hiệu,mới 100%",
+      "dvt": "Bộ",
+      "tonDau": 5,
+      "tongXuat": 0,
+      "tonCuoi": 5
+    },
+    {
+      "maHang": "50AU (Chip led)",
+      "tenHang": "50AU (Chip led)",
+      "dvt": "Bộ",
+      "tonDau": 6,
+      "tongXuat": 0,
+      "tonCuoi": 6
+    },
+    {
+      "maHang": "49KU6400/6500/MU6400/6500-KD",
+      "tenHang": "Bộ thanh led dẫn sáng 49KU6400/6500/MU6400/6500-KD, 2 thanh/bộ, kích thước dài 50-90 cm, mới 100%",
+      "dvt": "Bộ",
+      "tonDau": 8,
+      "tongXuat": 0,
+      "tonCuoi": 8
+    },
+    {
+      "maHang": "55Q60AAK",
+      "tenHang": "55Q60AAK/55Q65AAK/55Q70AAK/\n QAQ60G/55Q70Bak/Q63BAK (Bộ 2\n thanh 66 bóng- bản nhỏ)( (Chip led)",
+      "dvt": "Chiếc",
+      "tonDau": 9,
+      "tongXuat": 0,
+      "tonCuoi": 9
+    },
+    {
+      "maHang": "49UK6340PTF/ 49LK5700PTA/49UK6320PTE/ 49LJ550T/ 49",
+      "tenHang": "Bộ thanh led dẫn sáng màn hình tivi LG 49UK6340PTF/ 49LK5700PTA/49UK6320PTE/ 49LJ550T/ 49UJ632T (4 thanh 3V N5), KT dài (50-90)cm. Mới 100%",
+      "dvt": "Bộ",
+      "tonDau": 10,
+      "tongXuat": 0,
+      "tonCuoi": 10
+    },
+    {
+      "maHang": "T430QVN03.V",
+      "tenHang": "Tấm LCD (màn kính) 43 inch đi kèm bản mạch dùng trong lắp ráp module màn hình dẹt, mã T430QVN03.V, nhà sản suất: AUO, hàng mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 30,
+      "tongXuat": 11,
+      "tonCuoi": 19
+    },
+    {
+      "maHang": "LQ-K12-B13-11",
+      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã: LQ-K12-B13-11, nhà sản xuất LINGQI, mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 21,
+      "tongXuat": 0,
+      "tonCuoi": 21
+    },
+    {
+      "maHang": "N4TL550UHDEQC-SPA2_K3.4-N-T-C0FA0",
+      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã N4TL550UHDEQC-SPA2_K3.4-N-T-C0FA0 LC550EQC-SPA2, Nhà sản xuất: WDX, Hàng mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 36,
+      "tongXuat": 12,
+      "tonCuoi": 24
+    },
+    {
+      "maHang": "T550QVN07.X",
+      "tenHang": "Tấm LCD ( Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 55 inch, Mã: T550QVN07.X, Nhà sản xuất:AUO. Hàng mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 38,
+      "tongXuat": 1,
+      "tonCuoi": 37
+    },
+    {
+      "maHang": "HV430QUB-F7F",
+      "tenHang": "Tấm LCD (màn kính) đi kèm bản mạch dùng cho màn hình dẹt 43 inch, mã HV430QUB-F7F, nhà sản xuất BOE, hàng mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 43,
+      "tongXuat": 0,
+      "tonCuoi": 43
+    },
+    {
+      "maHang": "DCBDU-C196A_17 HV550QUB-F5B",
+      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã DCBDU-C196A_17 HV550QUB-F5B, Nhà sản xuất WDX, hàng mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 75,
+      "tongXuat": 6,
+      "tonCuoi": 69
+    },
+    {
+      "maHang": "HV550QUB-FIL",
+      "tenHang": "Tấm LCD ( Màn kính) đi kèm bản mạch dùng cho màn",
+      "dvt": "Chiếc",
+      "tonDau": 88,
+      "tongXuat": 14,
+      "tonCuoi": 74
+    },
+    {
+      "maHang": "HV430FHB-F90",
+      "tenHang": "Tấm LCD (màn kính) đi kèm bản mạch dùng cho màn hình dẹt 43 inch, mã HV430FHB-F90, nhà sản xuất BOE, hàng mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 85,
+      "tongXuat": 0,
+      "tonCuoi": 85
+    },
+    {
+      "maHang": "N4TB430UHDF7D_K1.1-N-T-FOqA0 HV430QUB-F7D",
+      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã:N4TB430UHDF7D_K1.1-N-T-FOqA0 HV430QUB-F7D, Nhà sản xuất: WDX, Hàng mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 85,
+      "tongXuat": 0,
+      "tonCuoi": 85
+    },
+    {
+      "maHang": "DCBDU-C196A-17_T_CLK6_UHD HV650QUB-S9B",
+      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, mã:DCBDU-C196A-17_T_CLK6_UHD HV650QUB-S9B, nhà sản xuất WDX, moiws%",
+      "dvt": "Chiếc",
+      "tonDau": 90,
+      "tongXuat": 2,
+      "tonCuoi": 88
+    },
+    {
+      "maHang": "6871L-6122A",
+      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã 6871L-6122A, Nhà sản xuất LG, hàng mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 96,
+      "tongXuat": 7,
+      "tonCuoi": 89
+    },
+    {
+      "maHang": "HV650QUB-S9B",
+      "tenHang": "Tấm LCD (màn kính) đi kèm bản mạch dùng cho màn hình dẹt 65 inch, mã HV650QUB-S9B, nhà sản xuất : BOE, mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 95,
+      "tongXuat": 2,
+      "tonCuoi": 93
+    },
+    {
+      "maHang": "CAP50CM",
+      "tenHang": "Cáp thay thế cáp tín hiệu màn hình, LED, LCD tivi,khoảng cách chân 5mm cáp dẹt 51 chân dài 50cm 1túi = 10pcs. Không hiệu Guangzhou Hengyuntong.Mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 100,
+      "tongXuat": 6,
+      "tonCuoi": 94
+    },
+    {
+      "maHang": "CAP30CM",
+      "tenHang": "Cáp thay thế cáp tín hiệu màn hình, LED, LCD tivi,khoảng cách chân 5mm cáp dẹt 51 chân dài 30cm 1túi = 10pcs. Không hiệu Guangzhou Hengyuntong.Mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 100,
+      "tongXuat": 0,
+      "tonCuoi": 100
+    },
+    {
+      "maHang": "LC550EQC-SPA3",
+      "tenHang": "Tấm LCD ( Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 55 inch, Mã: LC550EQC-SPA3, Nhà sản xuất: LG; Hàng mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 120,
+      "tongXuat": 20,
+      "tonCuoi": 100
+    },
+    {
+      "maHang": "HV430QUB-F7D",
+      "tenHang": "Tấm LCD ( Màn kính) đi kèm bản mạch dùng cho màn",
+      "dvt": "Chiếc",
+      "tonDau": 120,
+      "tongXuat": 6,
+      "tonCuoi": 114
+    },
+    {
+      "maHang": "LC550EQC-SSA4",
+      "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 55 inch, Mã: LC550EQC-SSA4, Nhà sản xuất CSOT, hàng mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 114,
+      "tongXuat": 0,
+      "tonCuoi": 114
+    },
+    {
+      "maHang": "LC550EQC-SPA2",
+      "tenHang": "Tấm LCD ( Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 55 inch, Mã: LC550EQC-SPA2, Nhà sản xuất: LG; Hàng mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 116,
+      "tongXuat": 0,
+      "tonCuoi": 116
+    },
+    {
+      "maHang": "V430DJ1-Q01",
+      "tenHang": "Tấm LCD ( Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 43 inch, Mã: V430DJ1-Q01, Nhà sản xuất: INNOLUX. Hàng mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 130,
+      "tongXuat": 12,
+      "tonCuoi": 118
+    },
+    {
+      "maHang": "LQ-K12-M96-11",
+      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã: LQ-K12-M96-11, Nhà sản xuất: LINGQI, Hàng mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 150,
+      "tongXuat": 20,
+      "tonCuoi": 130
+    },
+    {
+      "maHang": "7ACDJ1014",
+      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã: 7ACDJ1014, Nhà sản xuất: INNOLUX, Hàng mới 100 %",
+      "dvt": "Chiếc",
+      "tonDau": 150,
+      "tongXuat": 0,
+      "tonCuoi": 150
+    },
+    {
+      "maHang": "N4TA550UHDQVN07.X_K3.5-N-T-G0UA0",
+      "tenHang": "\"Bo mạch điều khiển dùng cho màn hình dẹt, Mã:\n \n N4TA550HDQVN07.X_K3.5-N-T-g0UA0, Nhà sản xuất: XINMUXI, Hàng mới 100%\"",
+      "dvt": "Chiếc",
+      "tonDau": 170,
+      "tongXuat": 1,
+      "tonCuoi": 169
+    },
+    {
+      "maHang": "N4TI430UHDDJ1-Q01-D2_K2.0",
+      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã: N4TI430UHDDJ1-Q01-D2_K2.0, Nhà sản xuất:\n XINMUXI, Hàng mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 170,
+      "tongXuat": 0,
+      "tonCuoi": 170
+    },
+    {
+      "maHang": "44-9771769",
+      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã: 44-9771769, Nhà sản xuất: BOE, Hàng mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 233,
+      "tongXuat": 58,
+      "tonCuoi": 175
+    },
+    {
+      "maHang": "N4THK430UHDGT01-8 K3,3-N-T-FOnA0",
+      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã:\n N4THK430UHDGT01-8 K3,3-N-T-FOnA0, Nhà sản\n xuất: WDX, Hàng mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 240,
+      "tongXuat": 0,
+      "tonCuoi": 240
+    },
+    {
+      "maHang": "HV490FHB-N80",
+      "tenHang": "\"Tấm LCD ( Màn kính) đi kèm bản mạch dùng cho màn",
+      "dvt": "Chiếc",
+      "tonDau": 350,
+      "tongXuat": 50,
+      "tonCuoi": 300
+    },
+    {
+      "maHang": "PT500GT02-8",
+      "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 50 inch, Mã: PT500GT02-8, Nhà sản xuất HKC, hàng mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 382,
+      "tongXuat": 41,
+      "tonCuoi": 341
+    },
+    {
+      "maHang": "DV490QUB-P10",
+      "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 49 inch, Mã: DV490QUB-P10, Nhà sản xuất BOE, hàng mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 438,
+      "tongXuat": 48,
+      "tonCuoi": 390
+    },
+    {
+      "maHang": "T430HVN01.2",
+      "tenHang": "Tấm LCD (màn hình) đi kèm bản mạch dùng cho màn hình dẹt 43 inch, mã T430HVN01.2, nhà sản xuất AUO, mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 717,
+      "tongXuat": 105,
+      "tonCuoi": 612
+    }
+  ],
+  "hetHang": [
+    {
+      "maHang": "49LH600T/ 49LH605T",
+      "tenHang": "Bộ thanh led dẫn sáng 49LH600T/49 LH605T, bộ ( 4 thanh 4 led + 4 than h 3 led , KT dài (50-90)cm. Mới 100 %",
+      "dvt": "Bộ",
+      "tonDau": 3,
+      "tongXuat": 3,
+      "tonCuoi": 0
+    },
+    {
+      "maHang": "55X7000G/ 55X8000G/ 55X7000D/ 55X8500H",
+      "tenHang": "Bộ thanh led dẫn sáng 55X7000G/ 55X8000G/ 55X7000D/ 55X8500H (đi-ốt phát quang),10 thanh 3V, đ/áp 3v/90-120w, dùng trong màn hình tivi, kích thước dài (50-90)cm, ko hiệu, mới 100%",
+      "dvt": "Bộ",
+      "tonDau": 2,
+      "tongXuat": 2,
+      "tonCuoi": 0
+    },
+    {
+      "maHang": "DCBDS-B260C_05",
+      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, mã DCBDS-B260C_05, nhà sản xuất WDX, hàng mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 3,
+      "tongXuat": 3,
+      "tonCuoi": 0
+    }
+  ],
+  "sapHet": [
+    {
+      "maHang": "40F5000/UA40F5100/UA40F5500/UA40F5501/UA40F6400/UA",
+      "tenHang": "Bộ thanh led dẫn sáng 40F5000/UA40F5100/UA40F5500/UA40F5501/UA40F6400/UA40F6300 (đi-ốt phát quang) , 14 thanh nổi 3V T2, đ/áp 3v/12 6-168w, dùng trong màn hình tivi, kt dài (50-90)cm,ko hiệu,mới 100%",
+      "dvt": "Bộ",
+      "tonDau": 5,
+      "tongXuat": 0,
+      "tonCuoi": 5
+    },
+    {
+      "maHang": "40LF630",
+      "tenHang": "40LF630/ LF632/ 40LB (Chip led)",
+      "dvt": "Bộ",
+      "tonDau": 1,
+      "tongXuat": 0,
+      "tonCuoi": 1
+    },
+    {
+      "maHang": "49KU6400/6500/MU6400/6500-KD",
+      "tenHang": "Bộ thanh led dẫn sáng 49KU6400/6500/MU6400/6500-KD, 2 thanh/bộ, kích thước dài 50-90 cm, mới 100%",
+      "dvt": "Bộ",
+      "tonDau": 8,
+      "tongXuat": 0,
+      "tonCuoi": 8
+    },
+    {
+      "maHang": "49P3/ 49P2/ 49P32",
+      "tenHang": "Bộ thanh led dẫn sáng 49P3/p2 / 49P 32( bộ 8 thanh), KT dài (50-90)cm. Mới 100%",
+      "dvt": "Bộ",
+      "tonDau": 1,
+      "tongXuat": 0,
+      "tonCuoi": 1
+    },
+    {
+      "maHang": "50AU (Chip led)",
+      "tenHang": "50AU (Chip led)",
+      "dvt": "Bộ",
+      "tonDau": 6,
+      "tongXuat": 0,
+      "tonCuoi": 6
+    },
+    {
+      "maHang": "55Q60AAK",
+      "tenHang": "55Q60AAK/55Q65AAK/55Q70AAK/\n QAQ60G/55Q70Bak/Q63BAK (Bộ 2\n thanh 66 bóng- bản nhỏ)( (Chip led)",
+      "dvt": "Chiếc",
+      "tonDau": 9,
+      "tongXuat": 0,
+      "tonCuoi": 9
+    },
+    {
+      "maHang": "65AU8100",
+      "tenHang": "Bộ thanh led dẫn sáng 65AU8100 / A U8000 /65BU8000, 2 thanh/bộ-64 le d, KT dài (50-90)cm. Mới 100%",
+      "dvt": "Bộ",
+      "tonDau": 3,
+      "tongXuat": 1,
+      "tonCuoi": 2
+    },
+    {
+      "maHang": "65Q65/Q3",
+      "tenHang": "Bộ thanh led dẫn sáng 65Q65/Q3 LED sáng xanh, 66 bóng, 2thanh/bộ, kích thước dài (50-90)cm. Mới 100%",
+      "dvt": "Bộ",
+      "tonDau": 5,
+      "tongXuat": 1,
+      "tonCuoi": 4
+    },
+    {
+      "maHang": "UA55NU7100/UA55NU7300/UA55NU7090/UA55RU7100/UA55RU7200/UA55RU7300",
+      "tenHang": "Bộ thanh led dẫn sáng màn hình tivi samsung UA55NU7100/UA55NU7300/UA55NU7090/UA55RU7100 /UA55RU7200/UA55RU7300 (2thanh viền 6V N2), KT dài (50-90)cm, mới 100%",
+      "dvt": "Bộ",
+      "tonDau": 1,
+      "tongXuat": 0,
+      "tonCuoi": 1
+    },
+    {
+      "maHang": "V400HJ91-PE1",
+      "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 40 inch, Mã: V400HJ91-PE1, Nhà sản xuất INNOLUX, hàng mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 2,
+      "tongXuat": 0,
+      "tonCuoi": 2
+    }
+  ],
+  "top20": [
+    {
+      "maHang": "T430HVN01.2",
+      "tenHang": "Tấm LCD (màn hình) đi kèm bản mạch dùng cho màn hình dẹt 43 inch, mã T430HVN01.2, nhà sản xuất AUO, mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 717,
+      "tongXuat": 105,
+      "tonCuoi": 612
+    },
+    {
+      "maHang": "DV490QUB-P10",
+      "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 49 inch, Mã: DV490QUB-P10, Nhà sản xuất BOE, hàng mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 438,
+      "tongXuat": 48,
+      "tonCuoi": 390
+    },
+    {
+      "maHang": "PT500GT02-8",
+      "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 50 inch, Mã: PT500GT02-8, Nhà sản xuất HKC, hàng mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 382,
+      "tongXuat": 41,
+      "tonCuoi": 341
+    },
+    {
+      "maHang": "HV490FHB-N80",
+      "tenHang": "\"Tấm LCD ( Màn kính) đi kèm bản mạch dùng cho màn",
+      "dvt": "Chiếc",
+      "tonDau": 350,
+      "tongXuat": 50,
+      "tonCuoi": 300
+    },
+    {
+      "maHang": "N4THK430UHDGT01-8 K3,3-N-T-FOnA0",
+      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã:\n N4THK430UHDGT01-8 K3,3-N-T-FOnA0, Nhà sản\n xuất: WDX, Hàng mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 240,
+      "tongXuat": 0,
+      "tonCuoi": 240
+    },
+    {
+      "maHang": "44-9771769",
+      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã: 44-9771769, Nhà sản xuất: BOE, Hàng mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 233,
+      "tongXuat": 58,
+      "tonCuoi": 175
+    },
+    {
+      "maHang": "N4TI430UHDDJ1-Q01-D2_K2.0",
+      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã: N4TI430UHDDJ1-Q01-D2_K2.0, Nhà sản xuất:\n XINMUXI, Hàng mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 170,
+      "tongXuat": 0,
+      "tonCuoi": 170
+    },
+    {
+      "maHang": "N4TA550UHDQVN07.X_K3.5-N-T-G0UA0",
+      "tenHang": "\"Bo mạch điều khiển dùng cho màn hình dẹt, Mã:\n \n N4TA550HDQVN07.X_K3.5-N-T-g0UA0, Nhà sản xuất: XINMUXI, Hàng mới 100%\"",
+      "dvt": "Chiếc",
+      "tonDau": 170,
+      "tongXuat": 1,
+      "tonCuoi": 169
+    },
+    {
+      "maHang": "7ACDJ1014",
+      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã: 7ACDJ1014, Nhà sản xuất: INNOLUX, Hàng mới 100 %",
+      "dvt": "Chiếc",
+      "tonDau": 150,
+      "tongXuat": 0,
+      "tonCuoi": 150
+    },
+    {
+      "maHang": "LQ-K12-M96-11",
+      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã: LQ-K12-M96-11, Nhà sản xuất: LINGQI, Hàng mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 150,
+      "tongXuat": 20,
+      "tonCuoi": 130
+    },
+    {
+      "maHang": "V430DJ1-Q01",
+      "tenHang": "Tấm LCD ( Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 43 inch, Mã: V430DJ1-Q01, Nhà sản xuất: INNOLUX. Hàng mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 130,
+      "tongXuat": 12,
+      "tonCuoi": 118
+    },
+    {
+      "maHang": "LC550EQC-SPA2",
+      "tenHang": "Tấm LCD ( Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 55 inch, Mã: LC550EQC-SPA2, Nhà sản xuất: LG; Hàng mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 116,
+      "tongXuat": 0,
+      "tonCuoi": 116
+    },
+    {
+      "maHang": "HV430QUB-F7D",
+      "tenHang": "Tấm LCD ( Màn kính) đi kèm bản mạch dùng cho màn",
+      "dvt": "Chiếc",
+      "tonDau": 120,
+      "tongXuat": 6,
+      "tonCuoi": 114
+    },
+    {
+      "maHang": "LC550EQC-SSA4",
+      "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 55 inch, Mã: LC550EQC-SSA4, Nhà sản xuất CSOT, hàng mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 114,
+      "tongXuat": 0,
+      "tonCuoi": 114
+    },
+    {
+      "maHang": "CAP30CM",
+      "tenHang": "Cáp thay thế cáp tín hiệu màn hình, LED, LCD tivi,khoảng cách chân 5mm cáp dẹt 51 chân dài 30cm 1túi = 10pcs. Không hiệu Guangzhou Hengyuntong.Mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 100,
+      "tongXuat": 0,
+      "tonCuoi": 100
+    },
+    {
+      "maHang": "LC550EQC-SPA3",
+      "tenHang": "Tấm LCD ( Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 55 inch, Mã: LC550EQC-SPA3, Nhà sản xuất: LG; Hàng mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 120,
+      "tongXuat": 20,
+      "tonCuoi": 100
+    },
+    {
+      "maHang": "CAP50CM",
+      "tenHang": "Cáp thay thế cáp tín hiệu màn hình, LED, LCD tivi,khoảng cách chân 5mm cáp dẹt 51 chân dài 50cm 1túi = 10pcs. Không hiệu Guangzhou Hengyuntong.Mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 100,
+      "tongXuat": 6,
+      "tonCuoi": 94
+    },
+    {
+      "maHang": "HV650QUB-S9B",
+      "tenHang": "Tấm LCD (màn kính) đi kèm bản mạch dùng cho màn hình dẹt 65 inch, mã HV650QUB-S9B, nhà sản xuất : BOE, mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 95,
+      "tongXuat": 2,
+      "tonCuoi": 93
+    },
+    {
+      "maHang": "6871L-6122A",
+      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã 6871L-6122A, Nhà sản xuất LG, hàng mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 96,
+      "tongXuat": 7,
+      "tonCuoi": 89
+    },
+    {
+      "maHang": "DCBDU-C196A-17_T_CLK6_UHD HV650QUB-S9B",
+      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, mã:DCBDU-C196A-17_T_CLK6_UHD HV650QUB-S9B, nhà sản xuất WDX, moiws%",
+      "dvt": "Chiếc",
+      "tonDau": 90,
+      "tongXuat": 2,
+      "tonCuoi": 88
+    }
+  ],
+  "maLoi": [
+    {
+      "maHang": "",
+      "tenHang": "Dịch vụ sửa chữa thay thế màn hình tivi 65inch (bao gồm vật tư phụ)",
+      "soLan": 21
+    },
+    {
+      "maHang": "SDV",
+      "tenHang": "CÔNG SỬA CHỮA, LẮP ĐẶT",
+      "soLan": 109
+    },
+    {
+      "maHang": "6781L-6122A",
+      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã 6781L-6122A, Nhà sản xuất LG, hàng mới 100%",
+      "soLan": 3
+    },
+    {
+      "maHang": "V400HJ9",
+      "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 40 inch, Mã: V400HJ91-PE1, Nhà sản xuất INNOLUX, hàng mới 100%",
+      "soLan": 10
+    },
+    {
+      "maHang": "HHV550QUB-FIL",
+      "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 55 inch, Mã HV550QUB-FIL, Nhà sản xuất: BOE, Hàng mới 100%",
+      "soLan": 21
+    },
+    {
+      "maHang": "K12-B13-11",
+      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, mã LQ-K12-B13-11, Nhà sản xuất: LINGQI, Hàng mới 100%",
+      "soLan": 21
+    },
+    {
+      "maHang": "49KU6400/6500 KD",
+      "tenHang": "Bộ thanh led dẫn sáng 49KU6400/6500/MU6400/6500-KD, 2 thanh/bộ, kích thước dài 50-90cm, mới 100%",
+      "soLan": 3
+    },
+    {
+      "maHang": "50AU",
+      "tenHang": "50AU (Chip led)",
+      "soLan": 7
+    },
+    {
+      "maHang": "UA55NU7100/NU7300",
+      "tenHang": "Bộ thanh led dẫn sáng màn hình tivi samsung UA55NU7100/UA55NU7300/UA55NU7090/UA55RU7100 /UA55RU7200/UA55RU7300 (2thanh viền 6V N2), KT dài (50-90)cm, mới 100%",
+      "soLan": 10
+    },
+    {
+      "maHang": "TIỀN CÔNG SỬA CHỮA",
+      "tenHang": "Tiền công sửa chữa",
+      "soLan": 4
+    },
+    {
+      "maHang": "65UJ632/65UK6100",
+      "tenHang": "Bộ thanh led dẫn sáng 65UJ632/65UK6100 (3A - 3B - 3C - 3D), 10 thanh/bộ, KT dài (50-90)cm. Mới 100%",
+      "soLan": 5
+    },
+    {
+      "maHang": "55Q60AAK/55Q65AAK/55Q70AAK/QAQ60G/55Q70BAK/Q63BAK",
+      "tenHang": "55Q60AAK/55Q65AAK/55Q70AAK/QAQ60G/55Q70BAK/Q63BAK (Bộ 2 thanh 66 bóng - bản nhỏ) (chip led)",
+      "soLan": 2
+    },
+    {
+      "maHang": "49DS630/ 5600V/ 49ES600V",
+      "tenHang": "Bộ thanh led dẫn sáng 49DS630/ 5600V/ 49ES600V - bộ 9 thanh 5 led chóa, KT dài (50-90)cm. Mới 100%",
+      "soLan": 4
+    },
+    {
+      "maHang": "LC50EQC-SPA2",
+      "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 55 inch, Mã: LC550EQC-SPA2, Nhà sản xuất LG; Hàng mới 100%",
+      "soLan": 5
+    },
+    {
+      "maHang": "V430DK1-Q01",
+      "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 43 inch, Mã: V430DK1-Q01, Nhà sản xuất INNOLUX, hàng mới 100%",
+      "soLan": 8
+    },
+    {
+      "maHang": "55KU6000/ 55JU6000/ 55KU6100/ 55JU6400/ 55MU61000",
+      "tenHang": "Bộ thanh led dẫn sáng 55KU6000/ 55JU6000/ 55KU6100/ 55JU6400/ 55MU61000/ 55MU6103/ 55JU7500, 12 thanh/bộ, KT dài (50-90)cm. Mới 100%",
+      "soLan": 3
+    },
+    {
+      "maHang": "DCBDU-C196A_17_T_CLK6_UHD HV650QUB-S9B",
+      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, mã DCBDU-C196A_17_T_CLK6_UHD HV650QUB-S9B",
+      "soLan": 2
+    },
+    {
+      "maHang": "55UJ632 - 55LJ5500",
+      "tenHang": "Bộ thanh led dẫn sáng 55UJ632 - 55LJ5500, 10 thanh/bộ, KT dài (30-60)cm, mới 100%",
+      "soLan": 2
+    },
+    {
+      "maHang": "55K5300",
+      "tenHang": "Bộ thanh led dẫn sáng 55K5300 không máng, 2 thanh/bộ, kích thước dài 50-90cm, mới 100%",
+      "soLan": 4
+    },
+    {
+      "maHang": "HV550QUB-S5B",
+      "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 55 inch, Mã: HV550QUB-S5B, Nhà sản xuất BOE, hàng mới 100%",
+      "soLan": 5
+    },
+    {
+      "maHang": "49P3/ 49P2 / 49P32",
+      "tenHang": "Bộ thanh led dẫn sáng 49P3/ 49P2/ 49P32, bộ 8 thanh KT dài (50-90)cm. Mới 100%",
+      "soLan": 3
+    },
+    {
+      "maHang": "65AU7002",
+      "tenHang": "Bộ thanh led dẫn sáng 65AU7002, 4 thanh/bộ, kích thước dài (50-90)cm. Mới 100%",
+      "soLan": 3
+    },
+    {
+      "maHang": "N4THK430UHDGT01-8 K3,3-N-T-FONA0",
+      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã: N4THK430UHDGT01-8 K3,3-N-T-FOnA0, Nhà sản xuất: WDX, Hàng mới 100%",
+      "soLan": 2
+    },
+    {
+      "maHang": "40LF-LB",
+      "tenHang": "40LF630/ LF632/ 40LB (Chip led)",
+      "soLan": 3
+    },
+    {
+      "maHang": "LC320DXQ-SMA8",
+      "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 32 inch, Mã: LC320DXQ-SMA8, Nhà sản xuất LG, hàng mới 100%",
+      "soLan": 3
+    },
+    {
+      "maHang": "LC320DXJ-SHAE",
+      "tenHang": "Tấm LCD (màn hình) 32 inch đi kèm bản mạch dùng trong lắp ráp module màn hình dẹt, mã LC320DXJ-SHAE, nhà sản xất LG, mới 100%",
+      "soLan": 1
+    },
+    {
+      "maHang": "N4TB490UHDQUB-P10_K1.0-N-T-F0NA0",
+      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã  N4TB490UHDQUB-P10_K1.0-N-T-F0nA0, Nhà sản xuất WDX, hàng mới 100%",
+      "soLan": 3
+    },
+    {
+      "maHang": "N4TL55UHDEQC-SPA2_K3.4-N-T-C0FA0",
+      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã N4TL550UHDEQC-SPA2_K3.4-N-T-C0FA0 LC550EQC-SPA2, Nhà sản xuất: WDX, Hàng mới 100%",
+      "soLan": 1
+    },
+    {
+      "maHang": "65UM7",
+      "tenHang": "65UM7 65UM7600/65NANO79 (Chip led)",
+      "soLan": 3
+    }
+  ],
+  "mstPendingCount": 97,
+  "updatedAt": "2026-07-10T23:50:06.999Z"
 }
