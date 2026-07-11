@@ -623,34 +623,9 @@
   ],
   "maLoi": [
     {
-      "maHang": "",
-      "tenHang": "Dịch vụ sửa chữa thay thế màn hình tivi 65inch (bao gồm vật tư phụ)",
-      "soLan": 21
-    },
-    {
-      "maHang": "SDV",
-      "tenHang": "CÔNG SỬA CHỮA, LẮP ĐẶT",
-      "soLan": 109
-    },
-    {
-      "maHang": "6781L-6122A",
-      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã 6781L-6122A, Nhà sản xuất LG, hàng mới 100%",
-      "soLan": 3
-    },
-    {
-      "maHang": "V400HJ9",
-      "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 40 inch, Mã: V400HJ91-PE1, Nhà sản xuất INNOLUX, hàng mới 100%",
-      "soLan": 10
-    },
-    {
-      "maHang": "HHV550QUB-FIL",
-      "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 55 inch, Mã HV550QUB-FIL, Nhà sản xuất: BOE, Hàng mới 100%",
-      "soLan": 21
-    },
-    {
-      "maHang": "K12-B13-11",
-      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, mã LQ-K12-B13-11, Nhà sản xuất: LINGQI, Hàng mới 100%",
-      "soLan": 21
+      "maHang": "55Q60AAK/55Q65AAK/55Q70AAK/QAQ60G/55Q70BAK/Q63BAK",
+      "tenHang": "55Q60AAK/55Q65AAK/55Q70AAK/QAQ60G/55Q70BAK/Q63BAK (Bộ 2 thanh 66 bóng - bản nhỏ) (chip led)",
+      "soLan": 2
     },
     {
       "maHang": "49KU6400/6500 KD",
@@ -658,84 +633,19 @@
       "soLan": 3
     },
     {
-      "maHang": "50AU",
-      "tenHang": "50AU (Chip led)",
-      "soLan": 7
+      "maHang": "SDV",
+      "tenHang": "Công sửa chữa tivi",
+      "soLan": 109
     },
     {
-      "maHang": "UA55NU7100/NU7300",
-      "tenHang": "Bộ thanh led dẫn sáng màn hình tivi samsung UA55NU7100/UA55NU7300/UA55NU7090/UA55RU7100 /UA55RU7200/UA55RU7300 (2thanh viền 6V N2), KT dài (50-90)cm, mới 100%",
+      "maHang": "V400HJ9",
+      "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 40 inch, Mã: V400HJ91-PE1, Nhà sản xuất INNOLUX, hàng mới 100%",
       "soLan": 10
     },
     {
-      "maHang": "TIỀN CÔNG SỬA CHỮA",
-      "tenHang": "Tiền công sửa chữa",
-      "soLan": 4
-    },
-    {
-      "maHang": "65UJ632/65UK6100",
-      "tenHang": "Bộ thanh led dẫn sáng 65UJ632/65UK6100 (3A - 3B - 3C - 3D), 10 thanh/bộ, KT dài (50-90)cm. Mới 100%",
-      "soLan": 5
-    },
-    {
-      "maHang": "55Q60AAK/55Q65AAK/55Q70AAK/QAQ60G/55Q70BAK/Q63BAK",
-      "tenHang": "55Q60AAK/55Q65AAK/55Q70AAK/QAQ60G/55Q70BAK/Q63BAK (Bộ 2 thanh 66 bóng - bản nhỏ) (chip led)",
-      "soLan": 2
-    },
-    {
-      "maHang": "49DS630/ 5600V/ 49ES600V",
-      "tenHang": "Bộ thanh led dẫn sáng 49DS630/ 5600V/ 49ES600V - bộ 9 thanh 5 led chóa, KT dài (50-90)cm. Mới 100%",
-      "soLan": 4
-    },
-    {
-      "maHang": "LC50EQC-SPA2",
-      "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 55 inch, Mã: LC550EQC-SPA2, Nhà sản xuất LG; Hàng mới 100%",
-      "soLan": 5
-    },
-    {
-      "maHang": "V430DK1-Q01",
-      "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 43 inch, Mã: V430DK1-Q01, Nhà sản xuất INNOLUX, hàng mới 100%",
-      "soLan": 8
-    },
-    {
-      "maHang": "55KU6000/ 55JU6000/ 55KU6100/ 55JU6400/ 55MU61000",
-      "tenHang": "Bộ thanh led dẫn sáng 55KU6000/ 55JU6000/ 55KU6100/ 55JU6400/ 55MU61000/ 55MU6103/ 55JU7500, 12 thanh/bộ, KT dài (50-90)cm. Mới 100%",
-      "soLan": 3
-    },
-    {
-      "maHang": "DCBDU-C196A_17_T_CLK6_UHD HV650QUB-S9B",
-      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, mã DCBDU-C196A_17_T_CLK6_UHD HV650QUB-S9B",
-      "soLan": 2
-    },
-    {
-      "maHang": "55UJ632 - 55LJ5500",
-      "tenHang": "Bộ thanh led dẫn sáng 55UJ632 - 55LJ5500, 10 thanh/bộ, KT dài (30-60)cm, mới 100%",
-      "soLan": 2
-    },
-    {
-      "maHang": "55K5300",
-      "tenHang": "Bộ thanh led dẫn sáng 55K5300 không máng, 2 thanh/bộ, kích thước dài 50-90cm, mới 100%",
-      "soLan": 4
-    },
-    {
-      "maHang": "HV550QUB-S5B",
-      "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 55 inch, Mã: HV550QUB-S5B, Nhà sản xuất BOE, hàng mới 100%",
-      "soLan": 5
-    },
-    {
-      "maHang": "49P3/ 49P2 / 49P32",
-      "tenHang": "Bộ thanh led dẫn sáng 49P3/ 49P2/ 49P32, bộ 8 thanh KT dài (50-90)cm. Mới 100%",
-      "soLan": 3
-    },
-    {
-      "maHang": "65AU7002",
-      "tenHang": "Bộ thanh led dẫn sáng 65AU7002, 4 thanh/bộ, kích thước dài (50-90)cm. Mới 100%",
-      "soLan": 3
-    },
-    {
-      "maHang": "N4THK430UHDGT01-8 K3,3-N-T-FONA0",
-      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã: N4THK430UHDGT01-8 K3,3-N-T-FOnA0, Nhà sản xuất: WDX, Hàng mới 100%",
-      "soLan": 2
+      "maHang": "50AU",
+      "tenHang": "50AU (Chip led)",
+      "soLan": 7
     },
     {
       "maHang": "40LF-LB",
@@ -743,18 +653,78 @@
       "soLan": 3
     },
     {
-      "maHang": "LC320DXQ-SMA8",
-      "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 32 inch, Mã: LC320DXQ-SMA8, Nhà sản xuất LG, hàng mới 100%",
+      "maHang": "49P3/ 49P2 / 49P32",
+      "tenHang": "Bộ thanh led dẫn sáng 49P3/ 49P2/ 49P32, bộ 8 thanh KT dài (50-90)cm. Mới 100%",
       "soLan": 3
     },
     {
-      "maHang": "LC320DXJ-SHAE",
-      "tenHang": "Tấm LCD (màn hình) 32 inch đi kèm bản mạch dùng trong lắp ráp module màn hình dẹt, mã LC320DXJ-SHAE, nhà sản xất LG, mới 100%",
-      "soLan": 1
+      "maHang": "UA55NU7100/NU7300",
+      "tenHang": "Bộ thanh led dẫn sáng màn hình tivi samsung UA55NU7100/UA55NU7300/UA55NU7090/UA55RU7100 /UA55RU7200/UA55RU7300 (2thanh viền 6V N2), KT dài (50-90)cm, mới 100%",
+      "soLan": 10
     },
     {
-      "maHang": "N4TB490UHDQUB-P10_K1.0-N-T-F0NA0",
-      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã  N4TB490UHDQUB-P10_K1.0-N-T-F0nA0, Nhà sản xuất WDX, hàng mới 100%",
+      "maHang": "N4THK430UHDGT01-8 K3,3-N-T-FONA0",
+      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã: N4THK430UHDGT01-8 K3,3-N-T-FOnA0, Nhà sản xuất: WDX, Hàng mới 100%",
+      "soLan": 2
+    },
+    {
+      "maHang": "LC50EQC-SPA2",
+      "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 55 inch, Mã: LC550EQC-SPA2, Nhà sản xuất LG; Hàng mới 100%",
+      "soLan": 5
+    },
+    {
+      "maHang": "65AU7002",
+      "tenHang": "Bộ thanh led dẫn sáng 65AU7002, 4 thanh/bộ, kích thước dài (50-90)cm. Mới 100%",
+      "soLan": 3
+    },
+    {
+      "maHang": "49DS630/ 5600V/ 49ES600V",
+      "tenHang": "Bộ thanh led dẫn sáng 49DS630/ 5600V/ 49ES600V - bộ 9 thanh 5 led chóa, KT dài (50-90)cm. Mới 100%",
+      "soLan": 4
+    },
+    {
+      "maHang": "55K5300",
+      "tenHang": "Bộ thanh led dẫn sáng 55K5300 không máng, 2 thanh/bộ, kích thước dài 50-90cm, mới 100%",
+      "soLan": 4
+    },
+    {
+      "maHang": "55KU6000/ 55JU6000/ 55KU6100/ 55JU6400/ 55MU61000",
+      "tenHang": "Bộ thanh led dẫn sáng 55KU6000/ 55JU6000/ 55KU6100/ 55JU6400/ 55MU61000/ 55MU6103/ 55JU7500, 12 thanh/bộ, KT dài (50-90)cm. Mới 100%",
+      "soLan": 3
+    },
+    {
+      "maHang": "55UJ632 - 55LJ5500",
+      "tenHang": "Bộ thanh led dẫn sáng 55UJ632 - 55LJ5500, 10 thanh/bộ, KT dài (30-60)cm, mới 100%",
+      "soLan": 2
+    },
+    {
+      "maHang": "K12-B13-11",
+      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, mã LQ-K12-B13-11, Nhà sản xuất: LINGQI, Hàng mới 100%",
+      "soLan": 21
+    },
+    {
+      "maHang": "65UJ632/65UK6100",
+      "tenHang": "Bộ thanh led dẫn sáng 65UJ632/65UK6100 (3A - 3B - 3C - 3D), 10 thanh/bộ, KT dài (50-90)cm. Mới 100%",
+      "soLan": 5
+    },
+    {
+      "maHang": "HHV550QUB-FIL",
+      "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 55 inch, Mã HV550QUB-FIL, Nhà sản xuất: BOE, Hàng mới 100%",
+      "soLan": 21
+    },
+    {
+      "maHang": "TIỀN CÔNG SỬA CHỮA",
+      "tenHang": "Tiền công sửa chữa tivi",
+      "soLan": 4
+    },
+    {
+      "maHang": "",
+      "tenHang": "Dịch vụ sửa chữa thay thế màn hình tivi 65inch (bao gồm vật tư phụ)",
+      "soLan": 21
+    },
+    {
+      "maHang": "65UM7",
+      "tenHang": "65UM7 65UM7600/65NANO79 (Chip led)",
       "soLan": 3
     },
     {
@@ -763,11 +733,41 @@
       "soLan": 1
     },
     {
-      "maHang": "65UM7",
-      "tenHang": "65UM7 65UM7600/65NANO79 (Chip led)",
+      "maHang": "LC320DXQ-SMA8",
+      "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 32 inch, Mã: LC320DXQ-SMA8, Nhà sản xuất LG, hàng mới 100%",
       "soLan": 3
+    },
+    {
+      "maHang": "N4TB490UHDQUB-P10_K1.0-N-T-F0NA0",
+      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã  N4TB490UHDQUB-P10_K1.0-N-T-F0nA0, Nhà sản xuất WDX, hàng mới 100%",
+      "soLan": 3
+    },
+    {
+      "maHang": "V430DK1-Q01",
+      "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 43 inch, Mã: V430DK1-Q01, Nhà sản xuất INNOLUX, hàng mới 100%",
+      "soLan": 8
+    },
+    {
+      "maHang": "LC320DXJ-SHAE",
+      "tenHang": "Tấm LCD (màn hình) 32 inch đi kèm bản mạch dùng trong lắp ráp module màn hình dẹt, mã LC320DXJ-SHAE, nhà sản xất LG, mới 100%",
+      "soLan": 1
+    },
+    {
+      "maHang": "HV550QUB-S5B",
+      "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 55 inch, Mã: HV550QUB-S5B, Nhà sản xuất BOE, hàng mới 100%",
+      "soLan": 5
+    },
+    {
+      "maHang": "6781L-6122A",
+      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã 6781L-6122A, Nhà sản xuất LG, hàng mới 100%",
+      "soLan": 3
+    },
+    {
+      "maHang": "DCBDU-C196A_17_T_CLK6_UHD HV650QUB-S9B",
+      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, mã DCBDU-C196A_17_T_CLK6_UHD HV650QUB-S9B",
+      "soLan": 2
     }
   ],
   "mstPendingCount": 97,
-  "updatedAt": "2026-07-10T23:50:06.999Z"
+  "updatedAt": "2026-07-11T11:50:30.331Z"
 }
