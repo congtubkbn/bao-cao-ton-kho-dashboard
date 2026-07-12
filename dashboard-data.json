@@ -1,8 +1,8 @@
 {
   "kpi": {
     "tonDau": 4641,
-    "tongXuat": 432,
-    "tonCuoi": 4209,
+    "tongXuat": 435,
+    "tonCuoi": 4206,
     "soMatHang": 43
   },
   "items": [
@@ -347,8 +347,8 @@
       "tenHang": "Tấm LCD (màn hình) đi kèm bản mạch dùng cho màn hình dẹt 43 inch, mã T430HVN01.2, nhà sản xuất AUO, mới 100%",
       "dvt": "Chiếc",
       "tonDau": 717,
-      "tongXuat": 105,
-      "tonCuoi": 612
+      "tongXuat": 108,
+      "tonCuoi": 609
     }
   ],
   "hetHang": [
@@ -465,8 +465,8 @@
       "tenHang": "Tấm LCD (màn hình) đi kèm bản mạch dùng cho màn hình dẹt 43 inch, mã T430HVN01.2, nhà sản xuất AUO, mới 100%",
       "dvt": "Chiếc",
       "tonDau": 717,
-      "tongXuat": 105,
-      "tonCuoi": 612
+      "tongXuat": 108,
+      "tonCuoi": 609
     },
     {
       "maHang": "DV490QUB-P10",
@@ -623,6 +623,16 @@
   ],
   "maLoi": [
     {
+      "maHang": "LC50EQC-SPA2",
+      "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 55 inch, Mã: LC550EQC-SPA2, Nhà sản xuất LG; Hàng mới 100%",
+      "soLan": 6
+    },
+    {
+      "maHang": "SDV",
+      "tenHang": "Công sửa chữa tivi",
+      "soLan": 110
+    },
+    {
       "maHang": "55Q60AAK/55Q65AAK/55Q70AAK/QAQ60G/55Q70BAK/Q63BAK",
       "tenHang": "55Q60AAK/55Q65AAK/55Q70AAK/QAQ60G/55Q70BAK/Q63BAK (Bộ 2 thanh 66 bóng - bản nhỏ) (chip led)",
       "soLan": 2
@@ -631,11 +641,6 @@
       "maHang": "49KU6400/6500 KD",
       "tenHang": "Bộ thanh led dẫn sáng 49KU6400/6500/MU6400/6500-KD, 2 thanh/bộ, kích thước dài 50-90cm, mới 100%",
       "soLan": 3
-    },
-    {
-      "maHang": "SDV",
-      "tenHang": "Công sửa chữa tivi",
-      "soLan": 109
     },
     {
       "maHang": "V400HJ9",
@@ -666,11 +671,6 @@
       "maHang": "N4THK430UHDGT01-8 K3,3-N-T-FONA0",
       "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã: N4THK430UHDGT01-8 K3,3-N-T-FOnA0, Nhà sản xuất: WDX, Hàng mới 100%",
       "soLan": 2
-    },
-    {
-      "maHang": "LC50EQC-SPA2",
-      "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 55 inch, Mã: LC550EQC-SPA2, Nhà sản xuất LG; Hàng mới 100%",
-      "soLan": 5
     },
     {
       "maHang": "65AU7002",
@@ -768,6 +768,6 @@
       "soLan": 2
     }
   ],
-  "mstPendingCount": 97,
-  "updatedAt": "2026-07-11T11:50:30.331Z"
+  "mstPendingCount": 98,
+  "updatedAt": "2026-07-12T11:57:13.498Z"
 }
