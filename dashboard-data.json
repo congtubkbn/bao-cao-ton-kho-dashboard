@@ -1,8 +1,8 @@
 {
   "kpi": {
     "tonDau": 4641,
-    "tongXuat": 435,
-    "tonCuoi": 4206,
+    "tongXuat": 443,
+    "tonCuoi": 4198,
     "soMatHang": 43
   },
   "items": [
@@ -47,20 +47,20 @@
       "tonCuoi": 1
     },
     {
+      "maHang": "65AU8100",
+      "tenHang": "Bộ thanh led dẫn sáng 65AU8100 / A U8000 /65BU8000, 2 thanh/bộ-64 le d, KT dài (50-90)cm. Mới 100%",
+      "dvt": "Bộ",
+      "tonDau": 3,
+      "tongXuat": 2,
+      "tonCuoi": 1
+    },
+    {
       "maHang": "UA55NU7100/UA55NU7300/UA55NU7090/UA55RU7100/UA55RU7200/UA55RU7300",
       "tenHang": "Bộ thanh led dẫn sáng màn hình tivi samsung UA55NU7100/UA55NU7300/UA55NU7090/UA55RU7100 /UA55RU7200/UA55RU7300 (2thanh viền 6V N2), KT dài (50-90)cm, mới 100%",
       "dvt": "Bộ",
       "tonDau": 1,
       "tongXuat": 0,
       "tonCuoi": 1
-    },
-    {
-      "maHang": "65AU8100",
-      "tenHang": "Bộ thanh led dẫn sáng 65AU8100 / A U8000 /65BU8000, 2 thanh/bộ-64 le d, KT dài (50-90)cm. Mới 100%",
-      "dvt": "Bộ",
-      "tonDau": 3,
-      "tongXuat": 1,
-      "tonCuoi": 2
     },
     {
       "maHang": "V400HJ91-PE1",
@@ -71,20 +71,20 @@
       "tonCuoi": 2
     },
     {
-      "maHang": "65Q65/Q3",
-      "tenHang": "Bộ thanh led dẫn sáng 65Q65/Q3 LED sáng xanh, 66 bóng, 2thanh/bộ, kích thước dài (50-90)cm. Mới 100%",
+      "maHang": "40F5000/UA40F5100/UA40F5500/UA40F5501/UA40F6400/UA",
+      "tenHang": "Bộ thanh led dẫn sáng 40F5000/UA40F5100/UA40F5500/UA40F5501/UA40F6400/UA40F6300 (đi-ốt phát quang) , 14 thanh nổi 3V T2, đ/áp 3v/12 6-168w, dùng trong màn hình tivi, kt dài (50-90)cm,ko hiệu,mới 100%",
       "dvt": "Bộ",
       "tonDau": 5,
       "tongXuat": 1,
       "tonCuoi": 4
     },
     {
-      "maHang": "40F5000/UA40F5100/UA40F5500/UA40F5501/UA40F6400/UA",
-      "tenHang": "Bộ thanh led dẫn sáng 40F5000/UA40F5100/UA40F5500/UA40F5501/UA40F6400/UA40F6300 (đi-ốt phát quang) , 14 thanh nổi 3V T2, đ/áp 3v/12 6-168w, dùng trong màn hình tivi, kt dài (50-90)cm,ko hiệu,mới 100%",
+      "maHang": "65Q65/Q3",
+      "tenHang": "Bộ thanh led dẫn sáng 65Q65/Q3 LED sáng xanh, 66 bóng, 2thanh/bộ, kích thước dài (50-90)cm. Mới 100%",
       "dvt": "Bộ",
       "tonDau": 5,
-      "tongXuat": 0,
-      "tonCuoi": 5
+      "tongXuat": 1,
+      "tonCuoi": 4
     },
     {
       "maHang": "50AU (Chip led)",
@@ -347,8 +347,8 @@
       "tenHang": "Tấm LCD (màn hình) đi kèm bản mạch dùng cho màn hình dẹt 43 inch, mã T430HVN01.2, nhà sản xuất AUO, mới 100%",
       "dvt": "Chiếc",
       "tonDau": 717,
-      "tongXuat": 108,
-      "tonCuoi": 609
+      "tongXuat": 114,
+      "tonCuoi": 603
     }
   ],
   "hetHang": [
@@ -383,8 +383,8 @@
       "tenHang": "Bộ thanh led dẫn sáng 40F5000/UA40F5100/UA40F5500/UA40F5501/UA40F6400/UA40F6300 (đi-ốt phát quang) , 14 thanh nổi 3V T2, đ/áp 3v/12 6-168w, dùng trong màn hình tivi, kt dài (50-90)cm,ko hiệu,mới 100%",
       "dvt": "Bộ",
       "tonDau": 5,
-      "tongXuat": 0,
-      "tonCuoi": 5
+      "tongXuat": 1,
+      "tonCuoi": 4
     },
     {
       "maHang": "40LF630",
@@ -431,8 +431,8 @@
       "tenHang": "Bộ thanh led dẫn sáng 65AU8100 / A U8000 /65BU8000, 2 thanh/bộ-64 le d, KT dài (50-90)cm. Mới 100%",
       "dvt": "Bộ",
       "tonDau": 3,
-      "tongXuat": 1,
-      "tonCuoi": 2
+      "tongXuat": 2,
+      "tonCuoi": 1
     },
     {
       "maHang": "65Q65/Q3",
@@ -465,8 +465,8 @@
       "tenHang": "Tấm LCD (màn hình) đi kèm bản mạch dùng cho màn hình dẹt 43 inch, mã T430HVN01.2, nhà sản xuất AUO, mới 100%",
       "dvt": "Chiếc",
       "tonDau": 717,
-      "tongXuat": 108,
-      "tonCuoi": 609
+      "tongXuat": 114,
+      "tonCuoi": 603
     },
     {
       "maHang": "DV490QUB-P10",
@@ -623,24 +623,24 @@
   ],
   "maLoi": [
     {
-      "maHang": "LC50EQC-SPA2",
-      "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 55 inch, Mã: LC550EQC-SPA2, Nhà sản xuất LG; Hàng mới 100%",
-      "soLan": 6
-    },
-    {
       "maHang": "SDV",
       "tenHang": "Công sửa chữa tivi",
-      "soLan": 110
-    },
-    {
-      "maHang": "55Q60AAK/55Q65AAK/55Q70AAK/QAQ60G/55Q70BAK/Q63BAK",
-      "tenHang": "55Q60AAK/55Q65AAK/55Q70AAK/QAQ60G/55Q70BAK/Q63BAK (Bộ 2 thanh 66 bóng - bản nhỏ) (chip led)",
-      "soLan": 2
+      "soLan": 112
     },
     {
       "maHang": "49KU6400/6500 KD",
       "tenHang": "Bộ thanh led dẫn sáng 49KU6400/6500/MU6400/6500-KD, 2 thanh/bộ, kích thước dài 50-90cm, mới 100%",
+      "soLan": 4
+    },
+    {
+      "maHang": "55Q60AAK/55Q65AAK/55Q70AAK/QAQ60G/55Q70BAK/Q63BAK",
+      "tenHang": "55Q60AAK/55Q65AAK/55Q70AAK/QAQ60G/55Q70BAK/Q63BAK (Bộ 2 thanh 66 bóng - bản nhỏ) (chip led)",
       "soLan": 3
+    },
+    {
+      "maHang": "LC50EQC-SPA2",
+      "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 55 inch, Mã: LC550EQC-SPA2, Nhà sản xuất LG; Hàng mới 100%",
+      "soLan": 6
     },
     {
       "maHang": "V400HJ9",
@@ -768,6 +768,6 @@
       "soLan": 2
     }
   ],
-  "mstPendingCount": 98,
-  "updatedAt": "2026-07-13T13:21:13.498Z"
+  "mstPendingCount": 99,
+  "updatedAt": "2026-07-14T12:09:02.672Z"
 }
