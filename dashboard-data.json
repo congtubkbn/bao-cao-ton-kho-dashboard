@@ -1,8 +1,8 @@
 {
   "kpi": {
     "tonDau": 4641,
-    "tongXuat": 459,
-    "tonCuoi": 4182,
+    "tongXuat": 462,
+    "tonCuoi": 4179,
     "soMatHang": 43
   },
   "items": [
@@ -83,8 +83,8 @@
       "tenHang": "Bộ thanh led dẫn sáng 65Q65/Q3 LED sáng xanh, 66 bóng, 2thanh/bộ, kích thước dài (50-90)cm. Mới 100%",
       "dvt": "Bộ",
       "tonDau": 5,
-      "tongXuat": 1,
-      "tonCuoi": 4
+      "tongXuat": 2,
+      "tonCuoi": 3
     },
     {
       "maHang": "50AU (Chip led)",
@@ -195,8 +195,8 @@
       "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, mã:DCBDU-C196A-17_T_CLK6_UHD HV650QUB-S9B, nhà sản xuất WDX, moiws%",
       "dvt": "Chiếc",
       "tonDau": 90,
-      "tongXuat": 3,
-      "tonCuoi": 87
+      "tongXuat": 4,
+      "tonCuoi": 86
     },
     {
       "maHang": "6871L-6122A",
@@ -211,8 +211,8 @@
       "tenHang": "Tấm LCD (màn kính) đi kèm bản mạch dùng cho màn hình dẹt 65 inch, mã HV650QUB-S9B, nhà sản xuất : BOE, mới 100%",
       "dvt": "Chiếc",
       "tonDau": 95,
-      "tongXuat": 3,
-      "tonCuoi": 92
+      "tongXuat": 4,
+      "tonCuoi": 91
     },
     {
       "maHang": "CAP50CM",
@@ -447,8 +447,8 @@
       "tenHang": "Bộ thanh led dẫn sáng 65Q65/Q3 LED sáng xanh, 66 bóng, 2thanh/bộ, kích thước dài (50-90)cm. Mới 100%",
       "dvt": "Bộ",
       "tonDau": 5,
-      "tongXuat": 1,
-      "tonCuoi": 4
+      "tongXuat": 2,
+      "tonCuoi": 3
     },
     {
       "maHang": "UA55NU7100/UA55NU7300/UA55NU7090/UA55RU7100/UA55RU7200/UA55RU7300",
@@ -609,8 +609,8 @@
       "tenHang": "Tấm LCD (màn kính) đi kèm bản mạch dùng cho màn hình dẹt 65 inch, mã HV650QUB-S9B, nhà sản xuất : BOE, mới 100%",
       "dvt": "Chiếc",
       "tonDau": 95,
-      "tongXuat": 3,
-      "tonCuoi": 92
+      "tongXuat": 4,
+      "tonCuoi": 91
     },
     {
       "maHang": "6871L-6122A",
@@ -625,8 +625,8 @@
       "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, mã:DCBDU-C196A-17_T_CLK6_UHD HV650QUB-S9B, nhà sản xuất WDX, moiws%",
       "dvt": "Chiếc",
       "tonDau": 90,
-      "tongXuat": 3,
-      "tonCuoi": 87
+      "tongXuat": 4,
+      "tonCuoi": 86
     }
   ],
   "maLoi": [
@@ -776,6 +776,6 @@
       "soLan": 2
     }
   ],
-  "mstPendingCount": 99,
-  "updatedAt": "2026-07-15T23:17:35.259Z"
+  "mstPendingCount": 98,
+  "updatedAt": "2026-07-15T23:36:00.795Z"
 }
