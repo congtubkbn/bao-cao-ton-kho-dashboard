@@ -1,8 +1,8 @@
 {
   "kpi": {
     "tonDau": 4641,
-    "tongXuat": 454,
-    "tonCuoi": 4187,
+    "tongXuat": 459,
+    "tonCuoi": 4182,
     "soMatHang": 43
   },
   "items": [
@@ -23,12 +23,28 @@
       "tonCuoi": 0
     },
     {
+      "maHang": "65AU8100",
+      "tenHang": "Bộ thanh led dẫn sáng 65AU8100 / A U8000 /65BU8000, 2 thanh/bộ-64 le d, KT dài (50-90)cm. Mới 100%",
+      "dvt": "Bộ",
+      "tonDau": 3,
+      "tongXuat": 3,
+      "tonCuoi": 0
+    },
+    {
       "maHang": "DCBDS-B260C_05",
       "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, mã DCBDS-B260C_05, nhà sản xuất WDX, hàng mới 100%",
       "dvt": "Chiếc",
       "tonDau": 3,
       "tongXuat": 3,
       "tonCuoi": 0
+    },
+    {
+      "maHang": "40F5000/UA40F5100/UA40F5500/UA40F5501/UA40F6400/UA",
+      "tenHang": "Bộ thanh led dẫn sáng 40F5000/UA40F5100/UA40F5500/UA40F5501/UA40F6400/UA40F6300 (đi-ốt phát quang) , 14 thanh nổi 3V T2, đ/áp 3v/12 6-168w, dùng trong màn hình tivi, kt dài (50-90)cm,ko hiệu,mới 100%",
+      "dvt": "Bộ",
+      "tonDau": 5,
+      "tongXuat": 4,
+      "tonCuoi": 1
     },
     {
       "maHang": "40LF630",
@@ -47,28 +63,12 @@
       "tonCuoi": 1
     },
     {
-      "maHang": "65AU8100",
-      "tenHang": "Bộ thanh led dẫn sáng 65AU8100 / A U8000 /65BU8000, 2 thanh/bộ-64 le d, KT dài (50-90)cm. Mới 100%",
-      "dvt": "Bộ",
-      "tonDau": 3,
-      "tongXuat": 2,
-      "tonCuoi": 1
-    },
-    {
       "maHang": "UA55NU7100/UA55NU7300/UA55NU7090/UA55RU7100/UA55RU7200/UA55RU7300",
       "tenHang": "Bộ thanh led dẫn sáng màn hình tivi samsung UA55NU7100/UA55NU7300/UA55NU7090/UA55RU7100 /UA55RU7200/UA55RU7300 (2thanh viền 6V N2), KT dài (50-90)cm, mới 100%",
       "dvt": "Bộ",
       "tonDau": 1,
       "tongXuat": 0,
       "tonCuoi": 1
-    },
-    {
-      "maHang": "40F5000/UA40F5100/UA40F5500/UA40F5501/UA40F6400/UA",
-      "tenHang": "Bộ thanh led dẫn sáng 40F5000/UA40F5100/UA40F5500/UA40F5501/UA40F6400/UA40F6300 (đi-ốt phát quang) , 14 thanh nổi 3V T2, đ/áp 3v/12 6-168w, dùng trong màn hình tivi, kt dài (50-90)cm,ko hiệu,mới 100%",
-      "dvt": "Bộ",
-      "tonDau": 5,
-      "tongXuat": 3,
-      "tonCuoi": 2
     },
     {
       "maHang": "V400HJ91-PE1",
@@ -139,8 +139,8 @@
       "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã N4TL550UHDEQC-SPA2_K3.4-N-T-C0FA0 LC550EQC-SPA2, Nhà sản xuất: WDX, Hàng mới 100%",
       "dvt": "Chiếc",
       "tonDau": 36,
-      "tongXuat": 12,
-      "tonCuoi": 24
+      "tongXuat": 13,
+      "tonCuoi": 23
     },
     {
       "maHang": "T550QVN07.X",
@@ -195,8 +195,8 @@
       "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, mã:DCBDU-C196A-17_T_CLK6_UHD HV650QUB-S9B, nhà sản xuất WDX, moiws%",
       "dvt": "Chiếc",
       "tonDau": 90,
-      "tongXuat": 2,
-      "tonCuoi": 88
+      "tongXuat": 3,
+      "tonCuoi": 87
     },
     {
       "maHang": "6871L-6122A",
@@ -211,8 +211,8 @@
       "tenHang": "Tấm LCD (màn kính) đi kèm bản mạch dùng cho màn hình dẹt 65 inch, mã HV650QUB-S9B, nhà sản xuất : BOE, mới 100%",
       "dvt": "Chiếc",
       "tonDau": 95,
-      "tongXuat": 2,
-      "tonCuoi": 93
+      "tongXuat": 3,
+      "tonCuoi": 92
     },
     {
       "maHang": "CAP50CM",
@@ -369,6 +369,14 @@
       "tonCuoi": 0
     },
     {
+      "maHang": "65AU8100",
+      "tenHang": "Bộ thanh led dẫn sáng 65AU8100 / A U8000 /65BU8000, 2 thanh/bộ-64 le d, KT dài (50-90)cm. Mới 100%",
+      "dvt": "Bộ",
+      "tonDau": 3,
+      "tongXuat": 3,
+      "tonCuoi": 0
+    },
+    {
       "maHang": "DCBDS-B260C_05",
       "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, mã DCBDS-B260C_05, nhà sản xuất WDX, hàng mới 100%",
       "dvt": "Chiếc",
@@ -383,8 +391,8 @@
       "tenHang": "Bộ thanh led dẫn sáng 40F5000/UA40F5100/UA40F5500/UA40F5501/UA40F6400/UA40F6300 (đi-ốt phát quang) , 14 thanh nổi 3V T2, đ/áp 3v/12 6-168w, dùng trong màn hình tivi, kt dài (50-90)cm,ko hiệu,mới 100%",
       "dvt": "Bộ",
       "tonDau": 5,
-      "tongXuat": 3,
-      "tonCuoi": 2
+      "tongXuat": 4,
+      "tonCuoi": 1
     },
     {
       "maHang": "40LF630",
@@ -433,14 +441,6 @@
       "tonDau": 9,
       "tongXuat": 0,
       "tonCuoi": 9
-    },
-    {
-      "maHang": "65AU8100",
-      "tenHang": "Bộ thanh led dẫn sáng 65AU8100 / A U8000 /65BU8000, 2 thanh/bộ-64 le d, KT dài (50-90)cm. Mới 100%",
-      "dvt": "Bộ",
-      "tonDau": 3,
-      "tongXuat": 2,
-      "tonCuoi": 1
     },
     {
       "maHang": "65Q65/Q3",
@@ -609,8 +609,8 @@
       "tenHang": "Tấm LCD (màn kính) đi kèm bản mạch dùng cho màn hình dẹt 65 inch, mã HV650QUB-S9B, nhà sản xuất : BOE, mới 100%",
       "dvt": "Chiếc",
       "tonDau": 95,
-      "tongXuat": 2,
-      "tonCuoi": 93
+      "tongXuat": 3,
+      "tonCuoi": 92
     },
     {
       "maHang": "6871L-6122A",
@@ -625,25 +625,30 @@
       "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, mã:DCBDU-C196A-17_T_CLK6_UHD HV650QUB-S9B, nhà sản xuất WDX, moiws%",
       "dvt": "Chiếc",
       "tonDau": 90,
-      "tongXuat": 2,
-      "tonCuoi": 88
+      "tongXuat": 3,
+      "tonCuoi": 87
     }
   ],
   "maLoi": [
     {
-      "maHang": "50AU",
-      "tenHang": "50AU (Chip led)",
-      "soLan": 8
-    },
-    {
       "maHang": "SDV",
       "tenHang": "Công sửa chữa tivi",
-      "soLan": 113
+      "soLan": 117
     },
     {
       "maHang": "49KU6400/6500 KD",
       "tenHang": "Bộ thanh led dẫn sáng 49KU6400/6500/MU6400/6500-KD, 2 thanh/bộ, kích thước dài 50-90cm, mới 100%",
-      "soLan": 4
+      "soLan": 5
+    },
+    {
+      "maHang": "K12-B13-11",
+      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, mã LQ-K12-B13-11, Nhà sản xuất: LINGQI, Hàng mới 100%",
+      "soLan": 22
+    },
+    {
+      "maHang": "50AU",
+      "tenHang": "50AU (Chip led)",
+      "soLan": 8
     },
     {
       "maHang": "55Q60AAK/55Q65AAK/55Q70AAK/QAQ60G/55Q70BAK/Q63BAK",
@@ -704,11 +709,6 @@
       "maHang": "55UJ632 - 55LJ5500",
       "tenHang": "Bộ thanh led dẫn sáng 55UJ632 - 55LJ5500, 10 thanh/bộ, KT dài (30-60)cm, mới 100%",
       "soLan": 2
-    },
-    {
-      "maHang": "K12-B13-11",
-      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, mã LQ-K12-B13-11, Nhà sản xuất: LINGQI, Hàng mới 100%",
-      "soLan": 21
     },
     {
       "maHang": "65UJ632/65UK6100",
@@ -777,5 +777,5 @@
     }
   ],
   "mstPendingCount": 99,
-  "updatedAt": "2026-07-15T12:12:45.165Z"
+  "updatedAt": "2026-07-15T23:17:35.259Z"
 }
