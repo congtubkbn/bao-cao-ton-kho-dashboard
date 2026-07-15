@@ -1,8 +1,8 @@
 {
   "kpi": {
     "tonDau": 4641,
-    "tongXuat": 449,
-    "tonCuoi": 4192,
+    "tongXuat": 454,
+    "tonCuoi": 4187,
     "soMatHang": 43
   },
   "items": [
@@ -95,19 +95,19 @@
       "tonCuoi": 6
     },
     {
+      "maHang": "49UK6340PTF/ 49LK5700PTA/49UK6320PTE/ 49LJ550T/ 49",
+      "tenHang": "Bộ thanh led dẫn sáng màn hình tivi LG 49UK6340PTF/ 49LK5700PTA/49UK6320PTE/ 49LJ550T/ 49UJ632T (4 thanh 3V N5), KT dài (50-90)cm. Mới 100%",
+      "dvt": "Bộ",
+      "tonDau": 10,
+      "tongXuat": 3,
+      "tonCuoi": 7
+    },
+    {
       "maHang": "49KU6400/6500/MU6400/6500-KD",
       "tenHang": "Bộ thanh led dẫn sáng 49KU6400/6500/MU6400/6500-KD, 2 thanh/bộ, kích thước dài 50-90 cm, mới 100%",
       "dvt": "Bộ",
       "tonDau": 8,
       "tongXuat": 0,
-      "tonCuoi": 8
-    },
-    {
-      "maHang": "49UK6340PTF/ 49LK5700PTA/49UK6320PTE/ 49LJ550T/ 49",
-      "tenHang": "Bộ thanh led dẫn sáng màn hình tivi LG 49UK6340PTF/ 49LK5700PTA/49UK6320PTE/ 49LJ550T/ 49UJ632T (4 thanh 3V N5), KT dài (50-90)cm. Mới 100%",
-      "dvt": "Bộ",
-      "tonDau": 10,
-      "tongXuat": 2,
       "tonCuoi": 8
     },
     {
@@ -323,16 +323,16 @@
       "tenHang": "\"Tấm LCD ( Màn kính) đi kèm bản mạch dùng cho màn",
       "dvt": "Chiếc",
       "tonDau": 350,
-      "tongXuat": 50,
-      "tonCuoi": 300
+      "tongXuat": 51,
+      "tonCuoi": 299
     },
     {
       "maHang": "PT500GT02-8",
       "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 50 inch, Mã: PT500GT02-8, Nhà sản xuất HKC, hàng mới 100%",
       "dvt": "Chiếc",
       "tonDau": 382,
-      "tongXuat": 41,
-      "tonCuoi": 341
+      "tongXuat": 44,
+      "tonCuoi": 338
     },
     {
       "maHang": "DV490QUB-P10",
@@ -415,8 +415,8 @@
       "tenHang": "Bộ thanh led dẫn sáng màn hình tivi LG 49UK6340PTF/ 49LK5700PTA/49UK6320PTE/ 49LJ550T/ 49UJ632T (4 thanh 3V N5), KT dài (50-90)cm. Mới 100%",
       "dvt": "Bộ",
       "tonDau": 10,
-      "tongXuat": 2,
-      "tonCuoi": 8
+      "tongXuat": 3,
+      "tonCuoi": 7
     },
     {
       "maHang": "50AU (Chip led)",
@@ -489,16 +489,16 @@
       "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 50 inch, Mã: PT500GT02-8, Nhà sản xuất HKC, hàng mới 100%",
       "dvt": "Chiếc",
       "tonDau": 382,
-      "tongXuat": 41,
-      "tonCuoi": 341
+      "tongXuat": 44,
+      "tonCuoi": 338
     },
     {
       "maHang": "HV490FHB-N80",
       "tenHang": "\"Tấm LCD ( Màn kính) đi kèm bản mạch dùng cho màn",
       "dvt": "Chiếc",
       "tonDau": 350,
-      "tongXuat": 50,
-      "tonCuoi": 300
+      "tongXuat": 51,
+      "tonCuoi": 299
     },
     {
       "maHang": "N4THK430UHDGT01-8 K3,3-N-T-FOnA0",
@@ -776,6 +776,6 @@
       "soLan": 2
     }
   ],
-  "mstPendingCount": 101,
-  "updatedAt": "2026-07-15T09:55:30.239Z"
+  "mstPendingCount": 99,
+  "updatedAt": "2026-07-15T12:12:45.165Z"
 }
