@@ -631,11 +631,6 @@
   ],
   "maLoi": [
     {
-      "maHang": "SDV",
-      "tenHang": "Công sửa chữa tivi",
-      "soLan": 117
-    },
-    {
       "maHang": "49KU6400/6500 KD",
       "tenHang": "Bộ thanh led dẫn sáng 49KU6400/6500/MU6400/6500-KD, 2 thanh/bộ, kích thước dài 50-90cm, mới 100%",
       "soLan": 5
@@ -777,5 +772,5 @@
     }
   ],
   "mstPendingCount": 0,
-  "updatedAt": "2026-07-15T23:39:38.778Z"
+  "updatedAt": "2026-07-15T23:44:04.725Z"
 }
