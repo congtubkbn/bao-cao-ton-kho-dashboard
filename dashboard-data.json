@@ -1,8 +1,8 @@
 {
   "kpi": {
     "tonDau": 4641,
-    "tongXuat": 462,
-    "tonCuoi": 4179,
+    "tongXuat": 463,
+    "tonCuoi": 4178,
     "soMatHang": 43
   },
   "items": [
@@ -275,8 +275,8 @@
       "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã: LQ-K12-M96-11, Nhà sản xuất: LINGQI, Hàng mới 100%",
       "dvt": "Chiếc",
       "tonDau": 150,
-      "tongXuat": 20,
-      "tonCuoi": 130
+      "tongXuat": 21,
+      "tonCuoi": 129
     },
     {
       "maHang": "7ACDJ1014",
@@ -545,8 +545,8 @@
       "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã: LQ-K12-M96-11, Nhà sản xuất: LINGQI, Hàng mới 100%",
       "dvt": "Chiếc",
       "tonDau": 150,
-      "tongXuat": 20,
-      "tonCuoi": 130
+      "tongXuat": 21,
+      "tonCuoi": 129
     },
     {
       "maHang": "V430DJ1-Q01",
@@ -776,6 +776,6 @@
       "soLan": 2
     }
   ],
-  "mstPendingCount": 98,
-  "updatedAt": "2026-07-15T23:37:06.222Z"
+  "mstPendingCount": 0,
+  "updatedAt": "2026-07-15T23:39:38.778Z"
 }
