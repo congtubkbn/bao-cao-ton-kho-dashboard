@@ -1,8 +1,8 @@
 {
   "kpi": {
     "tonDau": 4641,
-    "tongXuat": 443,
-    "tonCuoi": 4198,
+    "tongXuat": 449,
+    "tonCuoi": 4192,
     "soMatHang": 43
   },
   "items": [
@@ -63,20 +63,20 @@
       "tonCuoi": 1
     },
     {
+      "maHang": "40F5000/UA40F5100/UA40F5500/UA40F5501/UA40F6400/UA",
+      "tenHang": "Bộ thanh led dẫn sáng 40F5000/UA40F5100/UA40F5500/UA40F5501/UA40F6400/UA40F6300 (đi-ốt phát quang) , 14 thanh nổi 3V T2, đ/áp 3v/12 6-168w, dùng trong màn hình tivi, kt dài (50-90)cm,ko hiệu,mới 100%",
+      "dvt": "Bộ",
+      "tonDau": 5,
+      "tongXuat": 3,
+      "tonCuoi": 2
+    },
+    {
       "maHang": "V400HJ91-PE1",
       "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 40 inch, Mã: V400HJ91-PE1, Nhà sản xuất INNOLUX, hàng mới 100%",
       "dvt": "Chiếc",
       "tonDau": 2,
       "tongXuat": 0,
       "tonCuoi": 2
-    },
-    {
-      "maHang": "40F5000/UA40F5100/UA40F5500/UA40F5501/UA40F6400/UA",
-      "tenHang": "Bộ thanh led dẫn sáng 40F5000/UA40F5100/UA40F5500/UA40F5501/UA40F6400/UA40F6300 (đi-ốt phát quang) , 14 thanh nổi 3V T2, đ/áp 3v/12 6-168w, dùng trong màn hình tivi, kt dài (50-90)cm,ko hiệu,mới 100%",
-      "dvt": "Bộ",
-      "tonDau": 5,
-      "tongXuat": 1,
-      "tonCuoi": 4
     },
     {
       "maHang": "65Q65/Q3",
@@ -103,6 +103,14 @@
       "tonCuoi": 8
     },
     {
+      "maHang": "49UK6340PTF/ 49LK5700PTA/49UK6320PTE/ 49LJ550T/ 49",
+      "tenHang": "Bộ thanh led dẫn sáng màn hình tivi LG 49UK6340PTF/ 49LK5700PTA/49UK6320PTE/ 49LJ550T/ 49UJ632T (4 thanh 3V N5), KT dài (50-90)cm. Mới 100%",
+      "dvt": "Bộ",
+      "tonDau": 10,
+      "tongXuat": 2,
+      "tonCuoi": 8
+    },
+    {
       "maHang": "55Q60AAK",
       "tenHang": "55Q60AAK/55Q65AAK/55Q70AAK/\n QAQ60G/55Q70Bak/Q63BAK (Bộ 2\n thanh 66 bóng- bản nhỏ)( (Chip led)",
       "dvt": "Chiếc",
@@ -111,20 +119,12 @@
       "tonCuoi": 9
     },
     {
-      "maHang": "49UK6340PTF/ 49LK5700PTA/49UK6320PTE/ 49LJ550T/ 49",
-      "tenHang": "Bộ thanh led dẫn sáng màn hình tivi LG 49UK6340PTF/ 49LK5700PTA/49UK6320PTE/ 49LJ550T/ 49UJ632T (4 thanh 3V N5), KT dài (50-90)cm. Mới 100%",
-      "dvt": "Bộ",
-      "tonDau": 10,
-      "tongXuat": 0,
-      "tonCuoi": 10
-    },
-    {
       "maHang": "T430QVN03.V",
       "tenHang": "Tấm LCD (màn kính) 43 inch đi kèm bản mạch dùng trong lắp ráp module màn hình dẹt, mã T430QVN03.V, nhà sản suất: AUO, hàng mới 100%",
       "dvt": "Chiếc",
       "tonDau": 30,
-      "tongXuat": 11,
-      "tonCuoi": 19
+      "tongXuat": 13,
+      "tonCuoi": 17
     },
     {
       "maHang": "LQ-K12-B13-11",
@@ -383,8 +383,8 @@
       "tenHang": "Bộ thanh led dẫn sáng 40F5000/UA40F5100/UA40F5500/UA40F5501/UA40F6400/UA40F6300 (đi-ốt phát quang) , 14 thanh nổi 3V T2, đ/áp 3v/12 6-168w, dùng trong màn hình tivi, kt dài (50-90)cm,ko hiệu,mới 100%",
       "dvt": "Bộ",
       "tonDau": 5,
-      "tongXuat": 1,
-      "tonCuoi": 4
+      "tongXuat": 3,
+      "tonCuoi": 2
     },
     {
       "maHang": "40LF630",
@@ -409,6 +409,14 @@
       "tonDau": 1,
       "tongXuat": 0,
       "tonCuoi": 1
+    },
+    {
+      "maHang": "49UK6340PTF/ 49LK5700PTA/49UK6320PTE/ 49LJ550T/ 49",
+      "tenHang": "Bộ thanh led dẫn sáng màn hình tivi LG 49UK6340PTF/ 49LK5700PTA/49UK6320PTE/ 49LJ550T/ 49UJ632T (4 thanh 3V N5), KT dài (50-90)cm. Mới 100%",
+      "dvt": "Bộ",
+      "tonDau": 10,
+      "tongXuat": 2,
+      "tonCuoi": 8
     },
     {
       "maHang": "50AU (Chip led)",
@@ -623,9 +631,14 @@
   ],
   "maLoi": [
     {
+      "maHang": "50AU",
+      "tenHang": "50AU (Chip led)",
+      "soLan": 8
+    },
+    {
       "maHang": "SDV",
       "tenHang": "Công sửa chữa tivi",
-      "soLan": 112
+      "soLan": 113
     },
     {
       "maHang": "49KU6400/6500 KD",
@@ -646,11 +659,6 @@
       "maHang": "V400HJ9",
       "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 40 inch, Mã: V400HJ91-PE1, Nhà sản xuất INNOLUX, hàng mới 100%",
       "soLan": 10
-    },
-    {
-      "maHang": "50AU",
-      "tenHang": "50AU (Chip led)",
-      "soLan": 7
     },
     {
       "maHang": "40LF-LB",
@@ -768,6 +776,6 @@
       "soLan": 2
     }
   ],
-  "mstPendingCount": 99,
-  "updatedAt": "2026-07-14T12:09:02.672Z"
+  "mstPendingCount": 101,
+  "updatedAt": "2026-07-15T09:45:51.720Z"
 }
