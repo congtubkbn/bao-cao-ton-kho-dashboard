@@ -631,9 +631,19 @@
   ],
   "maLoi": [
     {
+      "maHang": "55Q60AAK/55Q65AAK/55Q70AAK/QAQ60G/55Q70BAK/Q63BAK",
+      "tenHang": "55Q60AAK/55Q65AAK/55Q70AAK/QAQ60G/55Q70BAK/Q63BAK (Bộ 2 thanh 66 bóng - bản nhỏ) (chip led)",
+      "soLan": 4
+    },
+    {
       "maHang": "SDV",
       "tenHang": "Công sửa chữa tivi",
-      "soLan": 118
+      "soLan": 119
+    },
+    {
+      "maHang": "",
+      "tenHang": "Dịch vụ sửa chữa tivi 22inch",
+      "soLan": 22
     },
     {
       "maHang": "49KU6400/6500 KD",
@@ -649,11 +659,6 @@
       "maHang": "50AU",
       "tenHang": "50AU (Chip led)",
       "soLan": 8
-    },
-    {
-      "maHang": "55Q60AAK/55Q65AAK/55Q70AAK/QAQ60G/55Q70BAK/Q63BAK",
-      "tenHang": "55Q60AAK/55Q65AAK/55Q70AAK/QAQ60G/55Q70BAK/Q63BAK (Bộ 2 thanh 66 bóng - bản nhỏ) (chip led)",
-      "soLan": 3
     },
     {
       "maHang": "LC50EQC-SPA2",
@@ -716,11 +721,6 @@
       "soLan": 4
     },
     {
-      "maHang": "",
-      "tenHang": "Dịch vụ sửa chữa thay thế màn hình tivi 65inch (bao gồm vật tư phụ)",
-      "soLan": 21
-    },
-    {
       "maHang": "65UM7",
       "tenHang": "65UM7 65UM7600/65NANO79 (Chip led)",
       "soLan": 3
@@ -766,6 +766,6 @@
       "soLan": 2
     }
   ],
-  "mstPendingCount": 1,
-  "updatedAt": "2026-07-17T12:07:10.525Z"
+  "mstPendingCount": 3,
+  "updatedAt": "2026-07-17T14:04:42.447Z"
 }
