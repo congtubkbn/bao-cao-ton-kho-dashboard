@@ -636,11 +636,6 @@
       "soLan": 4
     },
     {
-      "maHang": "SDV",
-      "tenHang": "Công sửa chữa tivi",
-      "soLan": 119
-    },
-    {
       "maHang": "",
       "tenHang": "Dịch vụ sửa chữa tivi 22inch",
       "soLan": 22
@@ -767,5 +762,5 @@
     }
   ],
   "mstPendingCount": 3,
-  "updatedAt": "2026-07-17T14:04:42.447Z"
+  "updatedAt": "2026-07-18T07:42:34.839Z"
 }
