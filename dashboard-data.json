@@ -1,11 +1,19 @@
 {
   "kpi": {
     "tonDau": 4641,
-    "tongXuat": 512,
-    "tonCuoi": 4129,
+    "tongXuat": 513,
+    "tonCuoi": 4128,
     "soMatHang": 43
   },
   "items": [
+    {
+      "maHang": "40F5000/UA40F5100/UA40F5500/UA40F5501/UA40F6400/UA",
+      "tenHang": "Bộ thanh led dẫn sáng 40F5000/UA40F5100/UA40F5500/UA40F5501/UA40F6400/UA40F6300 (đi-ốt phát quang) , 14 thanh nổi 3V T2, đ/áp 3v/12 6-168w, dùng trong màn hình tivi, kt dài (50-90)cm,ko hiệu,mới 100%",
+      "dvt": "Bộ",
+      "tonDau": 5,
+      "tongXuat": 5,
+      "tonCuoi": 0
+    },
     {
       "maHang": "49LH600T/ 49LH605T",
       "tenHang": "Bộ thanh led dẫn sáng 49LH600T/49 LH605T, bộ ( 4 thanh 4 led + 4 than h 3 led , KT dài (50-90)cm. Mới 100 %",
@@ -45,14 +53,6 @@
       "tonDau": 3,
       "tongXuat": 3,
       "tonCuoi": 0
-    },
-    {
-      "maHang": "40F5000/UA40F5100/UA40F5500/UA40F5501/UA40F6400/UA",
-      "tenHang": "Bộ thanh led dẫn sáng 40F5000/UA40F5100/UA40F5500/UA40F5501/UA40F6400/UA40F6300 (đi-ốt phát quang) , 14 thanh nổi 3V T2, đ/áp 3v/12 6-168w, dùng trong màn hình tivi, kt dài (50-90)cm,ko hiệu,mới 100%",
-      "dvt": "Bộ",
-      "tonDau": 5,
-      "tongXuat": 4,
-      "tonCuoi": 1
     },
     {
       "maHang": "40LF630",
@@ -353,6 +353,14 @@
   ],
   "hetHang": [
     {
+      "maHang": "40F5000/UA40F5100/UA40F5500/UA40F5501/UA40F6400/UA",
+      "tenHang": "Bộ thanh led dẫn sáng 40F5000/UA40F5100/UA40F5500/UA40F5501/UA40F6400/UA40F6300 (đi-ốt phát quang) , 14 thanh nổi 3V T2, đ/áp 3v/12 6-168w, dùng trong màn hình tivi, kt dài (50-90)cm,ko hiệu,mới 100%",
+      "dvt": "Bộ",
+      "tonDau": 5,
+      "tongXuat": 5,
+      "tonCuoi": 0
+    },
+    {
       "maHang": "49LH600T/ 49LH605T",
       "tenHang": "Bộ thanh led dẫn sáng 49LH600T/49 LH605T, bộ ( 4 thanh 4 led + 4 than h 3 led , KT dài (50-90)cm. Mới 100 %",
       "dvt": "Bộ",
@@ -394,14 +402,6 @@
     }
   ],
   "sapHet": [
-    {
-      "maHang": "40F5000/UA40F5100/UA40F5500/UA40F5501/UA40F6400/UA",
-      "tenHang": "Bộ thanh led dẫn sáng 40F5000/UA40F5100/UA40F5500/UA40F5501/UA40F6400/UA40F6300 (đi-ốt phát quang) , 14 thanh nổi 3V T2, đ/áp 3v/12 6-168w, dùng trong màn hình tivi, kt dài (50-90)cm,ko hiệu,mới 100%",
-      "dvt": "Bộ",
-      "tonDau": 5,
-      "tongXuat": 4,
-      "tonCuoi": 1
-    },
     {
       "maHang": "40LF630",
       "tenHang": "40LF630/ LF632/ 40LB (Chip led)",
@@ -762,5 +762,5 @@
     }
   ],
   "mstPendingCount": 3,
-  "updatedAt": "2026-07-18T07:51:27.822Z"
+  "updatedAt": "2026-07-18T08:11:30.280Z"
 }
