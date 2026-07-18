@@ -1,8 +1,8 @@
 {
   "kpi": {
     "tonDau": 4641,
-    "tongXuat": 513,
-    "tonCuoi": 4128,
+    "tongXuat": 515,
+    "tonCuoi": 4126,
     "soMatHang": 43
   },
   "items": [
@@ -171,8 +171,8 @@
       "tenHang": "Tấm LCD ( Màn kính) đi kèm bản mạch dùng cho màn",
       "dvt": "Chiếc",
       "tonDau": 88,
-      "tongXuat": 14,
-      "tonCuoi": 74
+      "tongXuat": 15,
+      "tonCuoi": 73
     },
     {
       "maHang": "HV430FHB-F90",
@@ -307,8 +307,8 @@
       "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã: 44-9771769, Nhà sản xuất: BOE, Hàng mới 100%",
       "dvt": "Chiếc",
       "tonDau": 233,
-      "tongXuat": 58,
-      "tonCuoi": 175
+      "tongXuat": 59,
+      "tonCuoi": 174
     },
     {
       "maHang": "N4THK430UHDGT01-8 K3,3-N-T-FOnA0",
@@ -513,8 +513,8 @@
       "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã: 44-9771769, Nhà sản xuất: BOE, Hàng mới 100%",
       "dvt": "Chiếc",
       "tonDau": 233,
-      "tongXuat": 58,
-      "tonCuoi": 175
+      "tongXuat": 59,
+      "tonCuoi": 174
     },
     {
       "maHang": "N4TI430UHDDJ1-Q01-D2_K2.0",
@@ -633,7 +633,7 @@
     {
       "maHang": "55Q60AAK/55Q65AAK/55Q70AAK/QAQ60G/55Q70BAK/Q63BAK",
       "tenHang": "55Q60AAK/55Q65AAK/55Q70AAK/QAQ60G/55Q70BAK/Q63BAK (Bộ 2 thanh 66 bóng - bản nhỏ) (chip led)",
-      "soLan": 4
+      "soLan": 5
     },
     {
       "maHang": "",
@@ -762,5 +762,5 @@
     }
   ],
   "mstPendingCount": 3,
-  "updatedAt": "2026-07-18T11:51:28.104Z"
+  "updatedAt": "2026-07-18T13:42:32.757Z"
 }
