@@ -1,8 +1,8 @@
 {
   "kpi": {
     "tonDau": 4641,
-    "tongXuat": 546,
-    "tonCuoi": 4095,
+    "tongXuat": 557,
+    "tonCuoi": 4084,
     "soMatHang": 43
   },
   "items": [
@@ -87,20 +87,20 @@
       "tonCuoi": 3
     },
     {
+      "maHang": "49UK6340PTF/ 49LK5700PTA/49UK6320PTE/ 49LJ550T/ 49",
+      "tenHang": "Bộ thanh led dẫn sáng màn hình tivi LG 49UK6340PTF/ 49LK5700PTA/49UK6320PTE/ 49LJ550T/ 49UJ632T (4 thanh 3V N5), KT dài (50-90)cm. Mới 100%",
+      "dvt": "Bộ",
+      "tonDau": 10,
+      "tongXuat": 4,
+      "tonCuoi": 6
+    },
+    {
       "maHang": "50AU (Chip led)",
       "tenHang": "50AU (Chip led)",
       "dvt": "Bộ",
       "tonDau": 6,
       "tongXuat": 0,
       "tonCuoi": 6
-    },
-    {
-      "maHang": "49UK6340PTF/ 49LK5700PTA/49UK6320PTE/ 49LJ550T/ 49",
-      "tenHang": "Bộ thanh led dẫn sáng màn hình tivi LG 49UK6340PTF/ 49LK5700PTA/49UK6320PTE/ 49LJ550T/ 49UJ632T (4 thanh 3V N5), KT dài (50-90)cm. Mới 100%",
-      "dvt": "Bộ",
-      "tonDau": 10,
-      "tongXuat": 3,
-      "tonCuoi": 7
     },
     {
       "maHang": "49KU6400/6500/MU6400/6500-KD",
@@ -243,8 +243,8 @@
       "tenHang": "Tấm LCD ( Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 43 inch, Mã: V430DJ1-Q01, Nhà sản xuất: INNOLUX. Hàng mới 100%",
       "dvt": "Chiếc",
       "tonDau": 130,
-      "tongXuat": 20,
-      "tonCuoi": 110
+      "tongXuat": 25,
+      "tonCuoi": 105
     },
     {
       "maHang": "HV430QUB-F7D",
@@ -315,8 +315,8 @@
       "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã:\n N4THK430UHDGT01-8 K3,3-N-T-FOnA0, Nhà sản\n xuất: WDX, Hàng mới 100%",
       "dvt": "Chiếc",
       "tonDau": 240,
-      "tongXuat": 35,
-      "tonCuoi": 205
+      "tongXuat": 40,
+      "tonCuoi": 200
     },
     {
       "maHang": "HV490FHB-N80",
@@ -423,8 +423,8 @@
       "tenHang": "Bộ thanh led dẫn sáng màn hình tivi LG 49UK6340PTF/ 49LK5700PTA/49UK6320PTE/ 49LJ550T/ 49UJ632T (4 thanh 3V N5), KT dài (50-90)cm. Mới 100%",
       "dvt": "Bộ",
       "tonDau": 10,
-      "tongXuat": 3,
-      "tonCuoi": 7
+      "tongXuat": 4,
+      "tonCuoi": 6
     },
     {
       "maHang": "50AU (Chip led)",
@@ -505,8 +505,8 @@
       "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã:\n N4THK430UHDGT01-8 K3,3-N-T-FOnA0, Nhà sản\n xuất: WDX, Hàng mới 100%",
       "dvt": "Chiếc",
       "tonDau": 240,
-      "tongXuat": 35,
-      "tonCuoi": 205
+      "tongXuat": 40,
+      "tonCuoi": 200
     },
     {
       "maHang": "44-9771769",
@@ -577,8 +577,8 @@
       "tenHang": "Tấm LCD ( Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 43 inch, Mã: V430DJ1-Q01, Nhà sản xuất: INNOLUX. Hàng mới 100%",
       "dvt": "Chiếc",
       "tonDau": 130,
-      "tongXuat": 20,
-      "tonCuoi": 110
+      "tongXuat": 25,
+      "tonCuoi": 105
     },
     {
       "maHang": "CAP30CM",
@@ -762,5 +762,5 @@
     }
   ],
   "mstPendingCount": 3,
-  "updatedAt": "2026-07-21T12:22:36.028Z"
+  "updatedAt": "2026-07-22T12:24:00.748Z"
 }
