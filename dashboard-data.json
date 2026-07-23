@@ -1,8 +1,8 @@
 {
   "kpi": {
     "tonDau": 4641,
-    "tongXuat": 557,
-    "tonCuoi": 4084,
+    "tongXuat": 581,
+    "tonCuoi": 4060,
     "soMatHang": 43
   },
   "items": [
@@ -127,20 +127,20 @@
       "tonCuoi": 17
     },
     {
+      "maHang": "N4TL550UHDEQC-SPA2_K3.4-N-T-C0FA0",
+      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã N4TL550UHDEQC-SPA2_K3.4-N-T-C0FA0 LC550EQC-SPA2, Nhà sản xuất: WDX, Hàng mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 36,
+      "tongXuat": 17,
+      "tonCuoi": 19
+    },
+    {
       "maHang": "LQ-K12-B13-11",
       "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã: LQ-K12-B13-11, nhà sản xuất LINGQI, mới 100%",
       "dvt": "Chiếc",
       "tonDau": 21,
       "tongXuat": 0,
       "tonCuoi": 21
-    },
-    {
-      "maHang": "N4TL550UHDEQC-SPA2_K3.4-N-T-C0FA0",
-      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã N4TL550UHDEQC-SPA2_K3.4-N-T-C0FA0 LC550EQC-SPA2, Nhà sản xuất: WDX, Hàng mới 100%",
-      "dvt": "Chiếc",
-      "tonDau": 36,
-      "tongXuat": 13,
-      "tonCuoi": 23
     },
     {
       "maHang": "T550QVN07.X",
@@ -315,8 +315,8 @@
       "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã:\n N4THK430UHDGT01-8 K3,3-N-T-FOnA0, Nhà sản\n xuất: WDX, Hàng mới 100%",
       "dvt": "Chiếc",
       "tonDau": 240,
-      "tongXuat": 40,
-      "tonCuoi": 200
+      "tongXuat": 45,
+      "tonCuoi": 195
     },
     {
       "maHang": "HV490FHB-N80",
@@ -331,16 +331,16 @@
       "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 50 inch, Mã: PT500GT02-8, Nhà sản xuất HKC, hàng mới 100%",
       "dvt": "Chiếc",
       "tonDau": 382,
-      "tongXuat": 51,
-      "tonCuoi": 331
+      "tongXuat": 56,
+      "tonCuoi": 326
     },
     {
       "maHang": "DV490QUB-P10",
       "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 49 inch, Mã: DV490QUB-P10, Nhà sản xuất BOE, hàng mới 100%",
       "dvt": "Chiếc",
       "tonDau": 438,
-      "tongXuat": 55,
-      "tonCuoi": 383
+      "tongXuat": 65,
+      "tonCuoi": 373
     },
     {
       "maHang": "T430HVN01.2",
@@ -481,16 +481,16 @@
       "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 49 inch, Mã: DV490QUB-P10, Nhà sản xuất BOE, hàng mới 100%",
       "dvt": "Chiếc",
       "tonDau": 438,
-      "tongXuat": 55,
-      "tonCuoi": 383
+      "tongXuat": 65,
+      "tonCuoi": 373
     },
     {
       "maHang": "PT500GT02-8",
       "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 50 inch, Mã: PT500GT02-8, Nhà sản xuất HKC, hàng mới 100%",
       "dvt": "Chiếc",
       "tonDau": 382,
-      "tongXuat": 51,
-      "tonCuoi": 331
+      "tongXuat": 56,
+      "tonCuoi": 326
     },
     {
       "maHang": "HV490FHB-N80",
@@ -505,8 +505,8 @@
       "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã:\n N4THK430UHDGT01-8 K3,3-N-T-FOnA0, Nhà sản\n xuất: WDX, Hàng mới 100%",
       "dvt": "Chiếc",
       "tonDau": 240,
-      "tongXuat": 40,
-      "tonCuoi": 200
+      "tongXuat": 45,
+      "tonCuoi": 195
     },
     {
       "maHang": "44-9771769",
@@ -631,6 +631,11 @@
   ],
   "maLoi": [
     {
+      "maHang": "LC50EQC-SPA2",
+      "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 55 inch, Mã: LC550EQC-SPA2, Nhà sản xuất LG; Hàng mới 100%",
+      "soLan": 8
+    },
+    {
       "maHang": "K12-B13-11",
       "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, mã LQ-K12-B13-11, Nhà sản xuất: LINGQI, Hàng mới 100%",
       "soLan": 23
@@ -654,11 +659,6 @@
       "maHang": "50AU",
       "tenHang": "50AU (Chip led)",
       "soLan": 8
-    },
-    {
-      "maHang": "LC50EQC-SPA2",
-      "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 55 inch, Mã: LC550EQC-SPA2, Nhà sản xuất LG; Hàng mới 100%",
-      "soLan": 6
     },
     {
       "maHang": "V400HJ9",
@@ -762,5 +762,5 @@
     }
   ],
   "mstPendingCount": 3,
-  "updatedAt": "2026-07-22T12:24:00.748Z"
+  "updatedAt": "2026-07-23T12:23:01.569Z"
 }
