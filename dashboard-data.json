@@ -1,8 +1,8 @@
 {
   "kpi": {
     "tonDau": 4641,
-    "tongXuat": 581,
-    "tonCuoi": 4060,
+    "tongXuat": 584,
+    "tonCuoi": 4057,
     "soMatHang": 43
   },
   "items": [
@@ -123,8 +123,8 @@
       "tenHang": "Tấm LCD (màn kính) 43 inch đi kèm bản mạch dùng trong lắp ráp module màn hình dẹt, mã T430QVN03.V, nhà sản suất: AUO, hàng mới 100%",
       "dvt": "Chiếc",
       "tonDau": 30,
-      "tongXuat": 13,
-      "tonCuoi": 17
+      "tongXuat": 16,
+      "tonCuoi": 14
     },
     {
       "maHang": "N4TL550UHDEQC-SPA2_K3.4-N-T-C0FA0",
@@ -631,6 +631,21 @@
   ],
   "maLoi": [
     {
+      "maHang": "43M5100 - 6100 - 43R6000 - 43T6500 - 43T6000",
+      "tenHang": "Bộ thanh led dẫn sáng 43M5100 - 6100 - 43R6000 - 43T6500 - 43T6000( 4 thanh 4 led + 4 thanh 3 led )(bộ 8thanh), KT dài (50-90)cm. Mới 100%",
+      "soLan": 1
+    },
+    {
+      "maHang": "49KU6400/6500 KD",
+      "tenHang": "Bộ thanh led dẫn sáng 49KU6400/6500/MU6400/6500-KD, 2 thanh/bộ, kích thước dài 50-90cm, mới 100%",
+      "soLan": 6
+    },
+    {
+      "maHang": "55X75K",
+      "tenHang": "Bộ phận của tivi: Bộ thanh led dẫn sáng 55x75k (10 thanh/5 led ), dùng trong màn hình tivi, bóng đi-ốt phát quang (led), KT dài (50-90)cm. Mới 100%",
+      "soLan": 1
+    },
+    {
       "maHang": "LC50EQC-SPA2",
       "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 55 inch, Mã: LC550EQC-SPA2, Nhà sản xuất LG; Hàng mới 100%",
       "soLan": 8
@@ -648,11 +663,6 @@
     {
       "maHang": "55Q60AAK/55Q65AAK/55Q70AAK/QAQ60G/55Q70BAK/Q63BAK",
       "tenHang": "55Q60AAK/55Q65AAK/55Q70AAK/QAQ60G/55Q70BAK/Q63BAK (Bộ 2 thanh 66 bóng - bản nhỏ) (chip led)",
-      "soLan": 5
-    },
-    {
-      "maHang": "49KU6400/6500 KD",
-      "tenHang": "Bộ thanh led dẫn sáng 49KU6400/6500/MU6400/6500-KD, 2 thanh/bộ, kích thước dài 50-90cm, mới 100%",
       "soLan": 5
     },
     {
@@ -762,5 +772,5 @@
     }
   ],
   "mstPendingCount": 3,
-  "updatedAt": "2026-07-23T12:23:01.569Z"
+  "updatedAt": "2026-07-24T12:17:18.375Z"
 }
