@@ -631,14 +631,24 @@
   ],
   "maLoi": [
     {
-      "maHang": "43M5100 - 6100 - 43R6000 - 43T6500 - 43T6000",
-      "tenHang": "Bộ thanh led dẫn sáng 43M5100 - 6100 - 43R6000 - 43T6500 - 43T6000( 4 thanh 4 led + 4 thanh 3 led )(bộ 8thanh), KT dài (50-90)cm. Mới 100%",
+      "maHang": "49KU6400/6500 KD",
+      "tenHang": "Bộ thanh led dẫn sáng 49KU6400/6500/MU6400/6500-KD, 2 thanh/bộ, kích thước dài 50-90cm, mới 100%",
+      "soLan": 7
+    },
+    {
+      "maHang": "47LB571",
+      "tenHang": "Bộ phận của tivi: Bộ thanh led dẫn sáng 47LB571(8 thanh/bộ) (bộ 8 thanh), dùng trong màn hình tivi, bóng đi-ốt phát quang (led), KT dài (50-90)cm. Mới 100%",
       "soLan": 1
     },
     {
-      "maHang": "49KU6400/6500 KD",
-      "tenHang": "Bộ thanh led dẫn sáng 49KU6400/6500/MU6400/6500-KD, 2 thanh/bộ, kích thước dài 50-90cm, mới 100%",
-      "soLan": 6
+      "maHang": "40LB551 / 40LF630",
+      "tenHang": "Bộ phận của tivi: Bộ thanh led dẫn sáng 40LB551 / 40LF630 (bộ 8 thanh),dùng trong màn hình tivi, bóng đi-ốtphát quang (led), KT dài (50-90)cm.Mới 100%",
+      "soLan": 1
+    },
+    {
+      "maHang": "43M5100 - 6100 - 43R6000 - 43T6500 - 43T6000",
+      "tenHang": "Bộ thanh led dẫn sáng 43M5100 - 6100 - 43R6000 - 43T6500 - 43T6000( 4 thanh 4 led + 4 thanh 3 led )(bộ 8thanh), KT dài (50-90)cm. Mới 100%",
+      "soLan": 1
     },
     {
       "maHang": "55X75K",
@@ -772,5 +782,5 @@
     }
   ],
   "mstPendingCount": 3,
-  "updatedAt": "2026-07-24T12:17:18.375Z"
+  "updatedAt": "2026-07-25T12:01:16.547Z"
 }
