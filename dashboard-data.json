@@ -1,8 +1,8 @@
 {
   "kpi": {
     "tonDau": 4641,
-    "tongXuat": 584,
-    "tonCuoi": 4057,
+    "tongXuat": 605,
+    "tonCuoi": 4036,
     "soMatHang": 43
   },
   "items": [
@@ -131,8 +131,8 @@
       "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã N4TL550UHDEQC-SPA2_K3.4-N-T-C0FA0 LC550EQC-SPA2, Nhà sản xuất: WDX, Hàng mới 100%",
       "dvt": "Chiếc",
       "tonDau": 36,
-      "tongXuat": 17,
-      "tonCuoi": 19
+      "tongXuat": 18,
+      "tonCuoi": 18
     },
     {
       "maHang": "LQ-K12-B13-11",
@@ -223,6 +223,14 @@
       "tonCuoi": 94
     },
     {
+      "maHang": "V430DJ1-Q01",
+      "tenHang": "Tấm LCD ( Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 43 inch, Mã: V430DJ1-Q01, Nhà sản xuất: INNOLUX. Hàng mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 130,
+      "tongXuat": 35,
+      "tonCuoi": 95
+    },
+    {
       "maHang": "CAP30CM",
       "tenHang": "Cáp thay thế cáp tín hiệu màn hình, LED, LCD tivi,khoảng cách chân 5mm cáp dẹt 51 chân dài 30cm 1túi = 10pcs. Không hiệu Guangzhou Hengyuntong.Mới 100%",
       "dvt": "Chiếc",
@@ -237,14 +245,6 @@
       "tonDau": 120,
       "tongXuat": 20,
       "tonCuoi": 100
-    },
-    {
-      "maHang": "V430DJ1-Q01",
-      "tenHang": "Tấm LCD ( Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 43 inch, Mã: V430DJ1-Q01, Nhà sản xuất: INNOLUX. Hàng mới 100%",
-      "dvt": "Chiếc",
-      "tonDau": 130,
-      "tongXuat": 25,
-      "tonCuoi": 105
     },
     {
       "maHang": "HV430QUB-F7D",
@@ -287,20 +287,20 @@
       "tonCuoi": 150
     },
     {
+      "maHang": "N4TI430UHDDJ1-Q01-D2_K2.0",
+      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã: N4TI430UHDDJ1-Q01-D2_K2.0, Nhà sản xuất:\n XINMUXI, Hàng mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 170,
+      "tongXuat": 10,
+      "tonCuoi": 160
+    },
+    {
       "maHang": "N4TA550UHDQVN07.X_K3.5-N-T-G0UA0",
       "tenHang": "\"Bo mạch điều khiển dùng cho màn hình dẹt, Mã:\n \n N4TA550HDQVN07.X_K3.5-N-T-g0UA0, Nhà sản xuất: XINMUXI, Hàng mới 100%\"",
       "dvt": "Chiếc",
       "tonDau": 170,
       "tongXuat": 1,
       "tonCuoi": 169
-    },
-    {
-      "maHang": "N4TI430UHDDJ1-Q01-D2_K2.0",
-      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã: N4TI430UHDDJ1-Q01-D2_K2.0, Nhà sản xuất:\n XINMUXI, Hàng mới 100%",
-      "dvt": "Chiếc",
-      "tonDau": 170,
-      "tongXuat": 0,
-      "tonCuoi": 170
     },
     {
       "maHang": "44-9771769",
@@ -517,20 +517,20 @@
       "tonCuoi": 174
     },
     {
-      "maHang": "N4TI430UHDDJ1-Q01-D2_K2.0",
-      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã: N4TI430UHDDJ1-Q01-D2_K2.0, Nhà sản xuất:\n XINMUXI, Hàng mới 100%",
-      "dvt": "Chiếc",
-      "tonDau": 170,
-      "tongXuat": 0,
-      "tonCuoi": 170
-    },
-    {
       "maHang": "N4TA550UHDQVN07.X_K3.5-N-T-G0UA0",
       "tenHang": "\"Bo mạch điều khiển dùng cho màn hình dẹt, Mã:\n \n N4TA550HDQVN07.X_K3.5-N-T-g0UA0, Nhà sản xuất: XINMUXI, Hàng mới 100%\"",
       "dvt": "Chiếc",
       "tonDau": 170,
       "tongXuat": 1,
       "tonCuoi": 169
+    },
+    {
+      "maHang": "N4TI430UHDDJ1-Q01-D2_K2.0",
+      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã: N4TI430UHDDJ1-Q01-D2_K2.0, Nhà sản xuất:\n XINMUXI, Hàng mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 170,
+      "tongXuat": 10,
+      "tonCuoi": 160
     },
     {
       "maHang": "7ACDJ1014",
@@ -573,14 +573,6 @@
       "tonCuoi": 114
     },
     {
-      "maHang": "V430DJ1-Q01",
-      "tenHang": "Tấm LCD ( Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 43 inch, Mã: V430DJ1-Q01, Nhà sản xuất: INNOLUX. Hàng mới 100%",
-      "dvt": "Chiếc",
-      "tonDau": 130,
-      "tongXuat": 25,
-      "tonCuoi": 105
-    },
-    {
       "maHang": "CAP30CM",
       "tenHang": "Cáp thay thế cáp tín hiệu màn hình, LED, LCD tivi,khoảng cách chân 5mm cáp dẹt 51 chân dài 30cm 1túi = 10pcs. Không hiệu Guangzhou Hengyuntong.Mới 100%",
       "dvt": "Chiếc",
@@ -595,6 +587,14 @@
       "tonDau": 120,
       "tongXuat": 20,
       "tonCuoi": 100
+    },
+    {
+      "maHang": "V430DJ1-Q01",
+      "tenHang": "Tấm LCD ( Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 43 inch, Mã: V430DJ1-Q01, Nhà sản xuất: INNOLUX. Hàng mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 130,
+      "tongXuat": 35,
+      "tonCuoi": 95
     },
     {
       "maHang": "CAP50CM",
@@ -631,6 +631,16 @@
   ],
   "maLoi": [
     {
+      "maHang": "50AU",
+      "tenHang": "50AU (Chip led)",
+      "soLan": 9
+    },
+    {
+      "maHang": "LC50EQC-SPA2",
+      "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 55 inch, Mã: LC550EQC-SPA2, Nhà sản xuất LG; Hàng mới 100%",
+      "soLan": 9
+    },
+    {
       "maHang": "49KU6400/6500 KD",
       "tenHang": "Bộ thanh led dẫn sáng 49KU6400/6500/MU6400/6500-KD, 2 thanh/bộ, kích thước dài 50-90cm, mới 100%",
       "soLan": 7
@@ -656,11 +666,6 @@
       "soLan": 1
     },
     {
-      "maHang": "LC50EQC-SPA2",
-      "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 55 inch, Mã: LC550EQC-SPA2, Nhà sản xuất LG; Hàng mới 100%",
-      "soLan": 8
-    },
-    {
       "maHang": "K12-B13-11",
       "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, mã LQ-K12-B13-11, Nhà sản xuất: LINGQI, Hàng mới 100%",
       "soLan": 23
@@ -674,11 +679,6 @@
       "maHang": "55Q60AAK/55Q65AAK/55Q70AAK/QAQ60G/55Q70BAK/Q63BAK",
       "tenHang": "55Q60AAK/55Q65AAK/55Q70AAK/QAQ60G/55Q70BAK/Q63BAK (Bộ 2 thanh 66 bóng - bản nhỏ) (chip led)",
       "soLan": 5
-    },
-    {
-      "maHang": "50AU",
-      "tenHang": "50AU (Chip led)",
-      "soLan": 8
     },
     {
       "maHang": "V400HJ9",
@@ -782,5 +782,5 @@
     }
   ],
   "mstPendingCount": 3,
-  "updatedAt": "2026-07-25T12:01:16.547Z"
+  "updatedAt": "2026-07-26T12:01:16.706Z"
 }
