@@ -1,8 +1,8 @@
 {
   "kpi": {
     "tonDau": 4641,
-    "tongXuat": 651,
-    "tonCuoi": 3990,
+    "tongXuat": 751,
+    "tonCuoi": 3890,
     "soMatHang": 43
   },
   "items": [
@@ -44,6 +44,14 @@
       "dvt": "Bộ",
       "tonDau": 3,
       "tongXuat": 3,
+      "tonCuoi": 0
+    },
+    {
+      "maHang": "CAP50CM",
+      "tenHang": "Cáp thay thế cáp tín hiệu màn hình, LED, LCD tivi,khoảng cách chân 5mm cáp dẹt 51 chân dài 50cm 1túi = 10pcs. Không hiệu Guangzhou Hengyuntong.Mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 100,
+      "tongXuat": 100,
       "tonCuoi": 0
     },
     {
@@ -215,14 +223,6 @@
       "tonCuoi": 91
     },
     {
-      "maHang": "CAP50CM",
-      "tenHang": "Cáp thay thế cáp tín hiệu màn hình, LED, LCD tivi,khoảng cách chân 5mm cáp dẹt 51 chân dài 50cm 1túi = 10pcs. Không hiệu Guangzhou Hengyuntong.Mới 100%",
-      "dvt": "Chiếc",
-      "tonDau": 100,
-      "tongXuat": 6,
-      "tonCuoi": 94
-    },
-    {
       "maHang": "V430DJ1-Q01",
       "tenHang": "Tấm LCD ( Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 43 inch, Mã: V430DJ1-Q01, Nhà sản xuất: INNOLUX. Hàng mới 100%",
       "dvt": "Chiếc",
@@ -315,8 +315,8 @@
       "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã:\n N4THK430UHDGT01-8 K3,3-N-T-FOnA0, Nhà sản\n xuất: WDX, Hàng mới 100%",
       "dvt": "Chiếc",
       "tonDau": 240,
-      "tongXuat": 48,
-      "tonCuoi": 192
+      "tongXuat": 51,
+      "tonCuoi": 189
     },
     {
       "maHang": "HV490FHB-N80",
@@ -331,8 +331,8 @@
       "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 50 inch, Mã: PT500GT02-8, Nhà sản xuất HKC, hàng mới 100%",
       "dvt": "Chiếc",
       "tonDau": 382,
-      "tongXuat": 56,
-      "tonCuoi": 326
+      "tongXuat": 59,
+      "tonCuoi": 323
     },
     {
       "maHang": "DV490QUB-P10",
@@ -390,6 +390,14 @@
       "dvt": "Bộ",
       "tonDau": 3,
       "tongXuat": 3,
+      "tonCuoi": 0
+    },
+    {
+      "maHang": "CAP50CM",
+      "tenHang": "Cáp thay thế cáp tín hiệu màn hình, LED, LCD tivi,khoảng cách chân 5mm cáp dẹt 51 chân dài 50cm 1túi = 10pcs. Không hiệu Guangzhou Hengyuntong.Mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 100,
+      "tongXuat": 100,
       "tonCuoi": 0
     },
     {
@@ -497,8 +505,8 @@
       "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 50 inch, Mã: PT500GT02-8, Nhà sản xuất HKC, hàng mới 100%",
       "dvt": "Chiếc",
       "tonDau": 382,
-      "tongXuat": 56,
-      "tonCuoi": 326
+      "tongXuat": 59,
+      "tonCuoi": 323
     },
     {
       "maHang": "HV490FHB-N80",
@@ -513,8 +521,8 @@
       "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã:\n N4THK430UHDGT01-8 K3,3-N-T-FOnA0, Nhà sản\n xuất: WDX, Hàng mới 100%",
       "dvt": "Chiếc",
       "tonDau": 240,
-      "tongXuat": 48,
-      "tonCuoi": 192
+      "tongXuat": 51,
+      "tonCuoi": 189
     },
     {
       "maHang": "44-9771769",
@@ -605,14 +613,6 @@
       "tonCuoi": 95
     },
     {
-      "maHang": "CAP50CM",
-      "tenHang": "Cáp thay thế cáp tín hiệu màn hình, LED, LCD tivi,khoảng cách chân 5mm cáp dẹt 51 chân dài 50cm 1túi = 10pcs. Không hiệu Guangzhou Hengyuntong.Mới 100%",
-      "dvt": "Chiếc",
-      "tonDau": 100,
-      "tongXuat": 6,
-      "tonCuoi": 94
-    },
-    {
       "maHang": "HV650QUB-S9B",
       "tenHang": "Tấm LCD (màn kính) đi kèm bản mạch dùng cho màn hình dẹt 65 inch, mã HV650QUB-S9B, nhà sản xuất : BOE, mới 100%",
       "dvt": "Chiếc",
@@ -635,6 +635,14 @@
       "tonDau": 90,
       "tongXuat": 4,
       "tonCuoi": 86
+    },
+    {
+      "maHang": "N4TB430UHDF7D_K1.1-N-T-FOqA0 HV430QUB-F7D",
+      "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã:N4TB430UHDF7D_K1.1-N-T-FOqA0 HV430QUB-F7D, Nhà sản xuất: WDX, Hàng mới 100%",
+      "dvt": "Chiếc",
+      "tonDau": 85,
+      "tongXuat": 0,
+      "tonCuoi": 85
     }
   ],
   "maLoi": [
@@ -790,5 +798,5 @@
     }
   ],
   "mstPendingCount": 3,
-  "updatedAt": "2026-07-28T12:51:31.700Z"
+  "updatedAt": "2026-07-29T12:58:24.022Z"
 }
