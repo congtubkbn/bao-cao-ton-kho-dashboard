@@ -647,6 +647,21 @@
   ],
   "maLoi": [
     {
+      "maHang": "39LB551",
+      "tenHang": "Bộ phận của tivi: Bộ thanh led dẫn sáng 39LB551 (bộ 8 thanh nối), dùng trong màn hình tivi, bóng đi-ốt phát quang (led), KT dài (50-90)cm. Mới 100%",
+      "soLan": 1
+    },
+    {
+      "maHang": "40LB551 / 40LF630",
+      "tenHang": "Bộ phận của tivi: Bộ thanh led dẫn sáng 40LB551 / 40LF630 (bộ 8 thanh),dùng trong màn hình tivi, bóng đi-ốtphát quang (led), KT dài (50-90)cm.Mới 100%",
+      "soLan": 2
+    },
+    {
+      "maHang": "48J5200 - 48J5000",
+      "tenHang": "Bộ thanh led dẫn sáng 48J5200 - 48J5000(8 thanh/bộ), KT dài (50-90)cm. Mới 100%",
+      "soLan": 2
+    },
+    {
       "maHang": "50AU",
       "tenHang": "50AU (Chip led)",
       "soLan": 9
@@ -664,11 +679,6 @@
     {
       "maHang": "47LB571",
       "tenHang": "Bộ phận của tivi: Bộ thanh led dẫn sáng 47LB571(8 thanh/bộ) (bộ 8 thanh), dùng trong màn hình tivi, bóng đi-ốt phát quang (led), KT dài (50-90)cm. Mới 100%",
-      "soLan": 1
-    },
-    {
-      "maHang": "40LB551 / 40LF630",
-      "tenHang": "Bộ phận của tivi: Bộ thanh led dẫn sáng 40LB551 / 40LF630 (bộ 8 thanh),dùng trong màn hình tivi, bóng đi-ốtphát quang (led), KT dài (50-90)cm.Mới 100%",
       "soLan": 1
     },
     {
@@ -798,5 +808,5 @@
     }
   ],
   "mstPendingCount": 3,
-  "updatedAt": "2026-07-29T12:58:24.022Z"
+  "updatedAt": "2026-07-30T12:27:23.424Z"
 }
