@@ -1,8 +1,8 @@
 {
   "kpi": {
     "tonDau": 4641,
-    "tongXuat": 751,
-    "tonCuoi": 3890,
+    "tongXuat": 769,
+    "tonCuoi": 3872,
     "soMatHang": 43
   },
   "items": [
@@ -155,8 +155,8 @@
       "tenHang": "Tấm LCD ( Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 55 inch, Mã: T550QVN07.X, Nhà sản xuất:AUO. Hàng mới 100%",
       "dvt": "Chiếc",
       "tonDau": 38,
-      "tongXuat": 1,
-      "tonCuoi": 37
+      "tongXuat": 10,
+      "tonCuoi": 28
     },
     {
       "maHang": "HV430QUB-F7F",
@@ -315,8 +315,8 @@
       "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã:\n N4THK430UHDGT01-8 K3,3-N-T-FOnA0, Nhà sản\n xuất: WDX, Hàng mới 100%",
       "dvt": "Chiếc",
       "tonDau": 240,
-      "tongXuat": 51,
-      "tonCuoi": 189
+      "tongXuat": 60,
+      "tonCuoi": 180
     },
     {
       "maHang": "HV490FHB-N80",
@@ -521,8 +521,8 @@
       "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, Mã:\n N4THK430UHDGT01-8 K3,3-N-T-FOnA0, Nhà sản\n xuất: WDX, Hàng mới 100%",
       "dvt": "Chiếc",
       "tonDau": 240,
-      "tongXuat": 51,
-      "tonCuoi": 189
+      "tongXuat": 60,
+      "tonCuoi": 180
     },
     {
       "maHang": "44-9771769",
@@ -647,6 +647,11 @@
   ],
   "maLoi": [
     {
+      "maHang": "",
+      "tenHang": "Dịch vụ sửa chữa thay thế màn hình tivi 65inch (bao gồm vật tư phụ)",
+      "soLan": 25
+    },
+    {
       "maHang": "39LB551",
       "tenHang": "Bộ phận của tivi: Bộ thanh led dẫn sáng 39LB551 (bộ 8 thanh nối), dùng trong màn hình tivi, bóng đi-ốt phát quang (led), KT dài (50-90)cm. Mới 100%",
       "soLan": 1
@@ -695,11 +700,6 @@
       "maHang": "K12-B13-11",
       "tenHang": "Bo mạch điều khiển dùng cho màn hình dẹt, mã LQ-K12-B13-11, Nhà sản xuất: LINGQI, Hàng mới 100%",
       "soLan": 23
-    },
-    {
-      "maHang": "",
-      "tenHang": "Dịch vụ sửa chữa màn hình tivi 32inch",
-      "soLan": 24
     },
     {
       "maHang": "55Q60AAK/55Q65AAK/55Q70AAK/QAQ60G/55Q70BAK/Q63BAK",
@@ -808,5 +808,5 @@
     }
   ],
   "mstPendingCount": 3,
-  "updatedAt": "2026-07-30T12:27:23.424Z"
+  "updatedAt": "2026-07-31T12:53:59.275Z"
 }
