@@ -1,176 +1,14 @@
 {
   "kpi": {
-    "tonDau": 7515,
+    "tonDau": 0,
     "tongXuat": 0,
-    "tonCuoi": 7515,
-    "soMatHang": 10
+    "tonCuoi": 0,
+    "soMatHang": 0
   },
-  "items": [
-    {
-      "maHang": "MA006",
-      "tenHang": "Thiết bị E - Loại 2",
-      "dvt": "máy",
-      "tonDau": 15,
-      "tongXuat": 0,
-      "tonCuoi": 15
-    },
-    {
-      "maHang": "MA004",
-      "tenHang": "Sản phẩm D - Bộ 5 cái",
-      "dvt": "bộ",
-      "tonDau": 50,
-      "tongXuat": 0,
-      "tonCuoi": 50
-    },
-    {
-      "maHang": "MA009",
-      "tenHang": "Hàng hóa H - Tiêu chuẩn",
-      "dvt": "cuộn",
-      "tonDau": 80,
-      "tongXuat": 0,
-      "tonCuoi": 80
-    },
-    {
-      "maHang": "MA005",
-      "tenHang": "Nguyên liệu X - Gia vị",
-      "dvt": "kg",
-      "tonDau": 120,
-      "tongXuat": 0,
-      "tonCuoi": 120
-    },
-    {
-      "maHang": "MA010",
-      "tenHang": "Kho tươi I - Nước",
-      "dvt": "thùng",
-      "tonDau": 200,
-      "tongXuat": 0,
-      "tonCuoi": 200
-    },
-    {
-      "maHang": "MA002",
-      "tenHang": "Sản phẩm B - Màu xanh",
-      "dvt": "hộp",
-      "tonDau": 250,
-      "tongXuat": 0,
-      "tonCuoi": 250
-    },
-    {
-      "maHang": "MA008",
-      "tenHang": "Sản phẩm G - Đỏ",
-      "dvt": "lít",
-      "tonDau": 300,
-      "tongXuat": 0,
-      "tonCuoi": 300
-    },
-    {
-      "maHang": "MA001",
-      "tenHang": "Sản phẩm A - Chất lượng cao",
-      "dvt": "cái",
-      "tonDau": 500,
-      "tongXuat": 0,
-      "tonCuoi": 500
-    },
-    {
-      "maHang": "MA003",
-      "tenHang": "Sản phẩm C - Size M",
-      "dvt": "chiếc",
-      "tonDau": 1000,
-      "tongXuat": 0,
-      "tonCuoi": 1000
-    },
-    {
-      "maHang": "MA007",
-      "tenHang": "Vật liệu F - Giấy",
-      "dvt": "tấm",
-      "tonDau": 5000,
-      "tongXuat": 0,
-      "tonCuoi": 5000
-    }
-  ],
+  "items": [],
   "hetHang": [],
   "sapHet": [],
-  "top20": [
-    {
-      "maHang": "MA007",
-      "tenHang": "Vật liệu F - Giấy",
-      "dvt": "tấm",
-      "tonDau": 5000,
-      "tongXuat": 0,
-      "tonCuoi": 5000
-    },
-    {
-      "maHang": "MA003",
-      "tenHang": "Sản phẩm C - Size M",
-      "dvt": "chiếc",
-      "tonDau": 1000,
-      "tongXuat": 0,
-      "tonCuoi": 1000
-    },
-    {
-      "maHang": "MA001",
-      "tenHang": "Sản phẩm A - Chất lượng cao",
-      "dvt": "cái",
-      "tonDau": 500,
-      "tongXuat": 0,
-      "tonCuoi": 500
-    },
-    {
-      "maHang": "MA008",
-      "tenHang": "Sản phẩm G - Đỏ",
-      "dvt": "lít",
-      "tonDau": 300,
-      "tongXuat": 0,
-      "tonCuoi": 300
-    },
-    {
-      "maHang": "MA002",
-      "tenHang": "Sản phẩm B - Màu xanh",
-      "dvt": "hộp",
-      "tonDau": 250,
-      "tongXuat": 0,
-      "tonCuoi": 250
-    },
-    {
-      "maHang": "MA010",
-      "tenHang": "Kho tươi I - Nước",
-      "dvt": "thùng",
-      "tonDau": 200,
-      "tongXuat": 0,
-      "tonCuoi": 200
-    },
-    {
-      "maHang": "MA005",
-      "tenHang": "Nguyên liệu X - Gia vị",
-      "dvt": "kg",
-      "tonDau": 120,
-      "tongXuat": 0,
-      "tonCuoi": 120
-    },
-    {
-      "maHang": "MA009",
-      "tenHang": "Hàng hóa H - Tiêu chuẩn",
-      "dvt": "cuộn",
-      "tonDau": 80,
-      "tongXuat": 0,
-      "tonCuoi": 80
-    },
-    {
-      "maHang": "MA004",
-      "tenHang": "Sản phẩm D - Bộ 5 cái",
-      "dvt": "bộ",
-      "tonDau": 50,
-      "tongXuat": 0,
-      "tonCuoi": 50
-    },
-    {
-      "maHang": "MA006",
-      "tenHang": "Thiết bị E - Loại 2",
-      "dvt": "máy",
-      "tonDau": 15,
-      "tongXuat": 0,
-      "tonCuoi": 15
-    }
-  ],
+  "top20": [],
   "maLoi": [
     {
       "maHang": "65Q65/Q3",
@@ -499,5 +337,5 @@
     }
   ],
   "mstPendingCount": 0,
-  "updatedAt": "2026-08-01T06:18:09.859Z"
+  "updatedAt": "2026-08-01T06:25:32.948Z"
 }
