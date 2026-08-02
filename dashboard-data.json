@@ -1,8 +1,8 @@
 {
   "kpi": {
     "tonDau": 4680,
-    "tongXuat": 812,
-    "tonCuoi": 3868,
+    "tongXuat": 817,
+    "tonCuoi": 3863,
     "soMatHang": 56
   },
   "items": [
@@ -76,6 +76,14 @@
       "dvt": "Bộ",
       "tonDau": 1,
       "tongXuat": 0,
+      "tonCuoi": 1
+    },
+    {
+      "maHang": "50AU",
+      "tenHang": "50AU (Chip led)",
+      "dvt": "Bộ",
+      "tonDau": 6,
+      "tongXuat": 5,
       "tonCuoi": 1
     },
     {
@@ -212,14 +220,6 @@
       "dvt": "Bộ",
       "tonDau": 10,
       "tongXuat": 4,
-      "tonCuoi": 6
-    },
-    {
-      "maHang": "50AU (Chip led)",
-      "tenHang": "50AU (Chip led)",
-      "dvt": "Bộ",
-      "tonDau": 6,
-      "tongXuat": 0,
       "tonCuoi": 6
     },
     {
@@ -547,12 +547,12 @@
       "tonCuoi": 6
     },
     {
-      "maHang": "50AU (Chip led)",
+      "maHang": "50AU",
       "tenHang": "50AU (Chip led)",
       "dvt": "Bộ",
       "tonDau": 6,
-      "tongXuat": 0,
-      "tonCuoi": 6
+      "tongXuat": 5,
+      "tonCuoi": 1
     },
     {
       "maHang": "55Q60AAK",
@@ -865,11 +865,6 @@
       "soLan": 25
     },
     {
-      "maHang": "50AU",
-      "tenHang": "50AU (Chip led)",
-      "soLan": 9
-    },
-    {
       "maHang": "LC50EQC-SPA2",
       "tenHang": "Tấm LCD (Màn kính) đi kèm bản mạch dùng cho màn hình dẹt 55 inch, Mã: LC550EQC-SPA2, Nhà sản xuất LG; Hàng mới 100%",
       "soLan": 9
@@ -991,5 +986,5 @@
     }
   ],
   "mstPendingCount": 0,
-  "updatedAt": "2026-08-01T21:52:10.634Z"
+  "updatedAt": "2026-08-02T12:02:39.684Z"
 }
